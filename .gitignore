@@ -1,3 +1,37 @@
-# Godot 4+ specific ignores
-.godot/
-/android/
+# Godot-specific ignores
+.import/
+.export/
+export.cfg
+export_presets.cfg
+
+# Godot build files
+*.import
+*.tmp
+*.converted.res
+*.converted.tres
+
+# Mono-specific (если ты используешь C#)
+.mono/
+data_*/              # экспортируемые сборки
+*.csproj
+*.sln
+*.user
+*.dll
+*.exe
+*.mdb
+*.pdb
+*.nuget/
+
+# VS Code settings
+.vscode/
+.history/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
