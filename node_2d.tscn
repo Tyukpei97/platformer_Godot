@@ -1,5 +1,10 @@
-[gd_scene format=3 uid="uid://dt7q60xqbseij"]
+[gd_scene load_steps=2 format=3 uid="uid://dt7q60xqbseij"]
+
+[ext_resource type="Texture2D" uid="uid://cc5er622clb8s" path="res://GAY GAME ASSET PACK v 1.0/Bosses/Agis/Agis.png" id="1_wtcfe"]
 
 [node name="Node2D" type="Node2D"]
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+
+[node name="Sprite2D" type="Sprite2D" parent="CharacterBody2D"]
+texture = ExtResource("1_wtcfe")
