@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c1if5hrsqyeb7"
+path="res://.godot/imported/industrial.mp3-06e0f234ba841fec04c8a0c0085f3457.mp3str"
+
+[deps]
+
+source_file="res://GAY GAME ASSET PACK v 1.0/Backgrounds/parallax-industrial-web/Assets/Industrial Theme Music/industrial.mp3"
+dest_files=["res://.godot/imported/industrial.mp3-06e0f234ba841fec04c8a0c0085f3457.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
