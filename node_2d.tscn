@@ -1,10 +1,11 @@
 [gd_scene load_steps=2 format=3 uid="uid://dt7q60xqbseij"]
 
-[ext_resource type="Texture2D" uid="uid://cc5er622clb8s" path="res://GAY GAME ASSET PACK v 1.0/Bosses/Agis/Agis.png" id="1_wtcfe"]
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_y32ns"]
+load_path = "res://.godot/imported/Agis.png-ba16cdce0d0ae1a3b80aff4d69d88ce4.ctex"
 
 [node name="Node2D" type="Node2D"]
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
 
 [node name="Sprite2D" type="Sprite2D" parent="CharacterBody2D"]
-texture = ExtResource("1_wtcfe")
+texture = SubResource("CompressedTexture2D_y32ns")
