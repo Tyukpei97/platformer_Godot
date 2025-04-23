@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bj1e88hd3vj56"
-path="res://.godot/imported/background_layer_2.png-f7cf3c61193caa47d8c0046479e977ad.ctex"
+uid="uid://d2jemsabrufgn"
+path="res://.godot/imported/background_layer_1.png-0a594112327ce5904e0ac718bae1ce22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/bg/location 2/oak_woods_v1.0/background/background_layer_2.png"
-dest_files=["res://.godot/imported/background_layer_2.png-f7cf3c61193caa47d8c0046479e977ad.ctex"]
+source_file="res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/background/background_layer_1.png"
+dest_files=["res://.godot/imported/background_layer_1.png-0a594112327ce5904e0ac718bae1ce22.ctex"]
 
 [params]
 

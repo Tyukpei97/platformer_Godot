@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkcohehntfrwu"
-path="res://.godot/imported/grass_1.png-491d71a30b87c9254c8a655a88ca3621.ctex"
+path="res://.godot/imported/grass_1.png-25a1c3eaea3b681214670bfeaba38d17.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/bg/location 2/oak_woods_v1.0/decorations/grass_1.png"
-dest_files=["res://.godot/imported/grass_1.png-491d71a30b87c9254c8a655a88ca3621.ctex"]
+source_file="res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/decorations/grass_1.png"
+dest_files=["res://.godot/imported/grass_1.png-25a1c3eaea3b681214670bfeaba38d17.ctex"]
 
 [params]
 

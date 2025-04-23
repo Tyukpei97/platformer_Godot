@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciknhv5h4x5sh"
-path="res://.godot/imported/background_layer_3.png-2ddf48ff053bc75f6773dfa2b94a806e.ctex"
+path="res://.godot/imported/background_layer_3.png-eb9df6f69e7b02e5508822a013b1347e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/bg/location 2/oak_woods_v1.0/background/background_layer_3.png"
-dest_files=["res://.godot/imported/background_layer_3.png-2ddf48ff053bc75f6773dfa2b94a806e.ctex"]
+source_file="res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/background/background_layer_3.png"
+dest_files=["res://.godot/imported/background_layer_3.png-eb9df6f69e7b02e5508822a013b1347e.ctex"]
 
 [params]
 

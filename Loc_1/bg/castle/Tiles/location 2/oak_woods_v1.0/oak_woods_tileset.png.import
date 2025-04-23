@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmht6ycxlqkgn"
-path="res://.godot/imported/oak_woods_tileset.png-19b82cb01c9dccd10595539b3c0fefbf.ctex"
+path="res://.godot/imported/oak_woods_tileset.png-edbe8f2e41a63a97f778336e13917a4f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/bg/location 2/oak_woods_v1.0/oak_woods_tileset.png"
-dest_files=["res://.godot/imported/oak_woods_tileset.png-19b82cb01c9dccd10595539b3c0fefbf.ctex"]
+source_file="res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/oak_woods_tileset.png"
+dest_files=["res://.godot/imported/oak_woods_tileset.png-edbe8f2e41a63a97f778336e13917a4f.ctex"]
 
 [params]
 

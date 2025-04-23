@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c5jwacl53x1gw"
-path="res://.godot/imported/rock_1.png-efc03688267106ad57c33175787408ed.ctex"
+uid="uid://cmq7oonor6wov"
+path="res://.godot/imported/shop_anim.png-f1d8961d6a8f42caf857478a304c7231.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/bg/location 2/oak_woods_v1.0/decorations/rock_1.png"
-dest_files=["res://.godot/imported/rock_1.png-efc03688267106ad57c33175787408ed.ctex"]
+source_file="res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/decorations/shop_anim.png"
+dest_files=["res://.godot/imported/shop_anim.png-f1d8961d6a8f42caf857478a304c7231.ctex"]
 
 [params]
 

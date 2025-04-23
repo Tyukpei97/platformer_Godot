@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://rbkjg5hxqle2"
-path="res://.godot/imported/shop.png-a0136dc6b5659632f692b3f901d14af1.ctex"
+uid="uid://ji1hq513avtn"
+path="res://.godot/imported/lamp.png-5e30ee8e9d821eba0580bb7629615737.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/bg/location 2/oak_woods_v1.0/decorations/shop.png"
-dest_files=["res://.godot/imported/shop.png-a0136dc6b5659632f692b3f901d14af1.ctex"]
+source_file="res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/decorations/lamp.png"
+dest_files=["res://.godot/imported/lamp.png-5e30ee8e9d821eba0580bb7629615737.ctex"]
 
 [params]
 

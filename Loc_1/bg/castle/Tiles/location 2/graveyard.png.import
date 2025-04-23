@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d1gylxjqwig8w"
-path="res://.godot/imported/rock_3.png-63634e5162c12ecdc9786645c4b690ca.ctex"
+uid="uid://dir7jcgetn4m1"
+path="res://.godot/imported/graveyard.png-ca36cbf74c22ae6718f10d1cea5cf423.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/bg/location 2/oak_woods_v1.0/decorations/rock_3.png"
-dest_files=["res://.godot/imported/rock_3.png-63634e5162c12ecdc9786645c4b690ca.ctex"]
+source_file="res://Loc_1/bg/castle/Tiles/location 2/graveyard.png"
+dest_files=["res://.godot/imported/graveyard.png-ca36cbf74c22ae6718f10d1cea5cf423.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wiey35op26c4"
-path="res://.godot/imported/fence_1.png-4a638c29fc64a6ef2d213f5b9fcaae46.ctex"
+uid="uid://bg3wwha66t2tf"
+path="res://.godot/imported/sign.png-7e1f0f2fdf0e3db19333e7b5807d349e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/bg/location 2/oak_woods_v1.0/decorations/fence_1.png"
-dest_files=["res://.godot/imported/fence_1.png-4a638c29fc64a6ef2d213f5b9fcaae46.ctex"]
+source_file="res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/decorations/sign.png"
+dest_files=["res://.godot/imported/sign.png-7e1f0f2fdf0e3db19333e7b5807d349e.ctex"]
 
 [params]
 
