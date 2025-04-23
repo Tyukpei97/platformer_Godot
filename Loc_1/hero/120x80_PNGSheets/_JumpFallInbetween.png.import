@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bcwijdthi1w5j"
-path="res://.godot/imported/Fullmain.png-17ad439f1ed3f1dc644e63442b11943c.ctex"
+uid="uid://bnd2fke5auxuh"
+path="res://.godot/imported/_JumpFallInbetween.png-0dedf0b6c4450d2b0e00345486851e17.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/hero/Rogue Knight/Fullmain.png"
-dest_files=["res://.godot/imported/Fullmain.png-17ad439f1ed3f1dc644e63442b11943c.ctex"]
+source_file="res://Loc_1/hero/120x80_PNGSheets/_JumpFallInbetween.png"
+dest_files=["res://.godot/imported/_JumpFallInbetween.png-0dedf0b6c4450d2b0e00345486851e17.ctex"]
 
 [params]
 

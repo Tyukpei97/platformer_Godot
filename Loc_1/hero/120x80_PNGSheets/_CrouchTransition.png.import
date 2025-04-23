@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bim73pgnjeibs"
-path="res://.godot/imported/main2.1.png-d59640b71c4495e87bb3bffe49f83423.ctex"
+uid="uid://brfetsm0rfd5v"
+path="res://.godot/imported/_CrouchTransition.png-1d3e39c56849001acc3d6a34b2cfdf47.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/hero/Rogue Knight/main2.1.png"
-dest_files=["res://.godot/imported/main2.1.png-d59640b71c4495e87bb3bffe49f83423.ctex"]
+source_file="res://Loc_1/hero/120x80_PNGSheets/_CrouchTransition.png"
+dest_files=["res://.godot/imported/_CrouchTransition.png-1d3e39c56849001acc3d6a34b2cfdf47.ctex"]
 
 [params]
 
