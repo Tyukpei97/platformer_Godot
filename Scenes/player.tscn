@@ -61,7 +61,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"idle",
-"speed": 7.0
+"speed": 6.0
 }, {
 "frames": [],
 "loop": true,
@@ -89,7 +89,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"run",
-"speed": 8.0
+"speed": 12.0
 }]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_qqcod"]
@@ -107,6 +107,7 @@ z_index = 2
 texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_fd4e3")
 animation = &"idle"
+frame_progress = 0.745587
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
 position = Vector2(0, 2)
@@ -114,5 +115,6 @@ shape = SubResource("CapsuleShape2D_qqcod")
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
 visibility_layer = 31
-zoom = Vector2(3, 3)
+zoom = Vector2(2.5, 2.5)
 position_smoothing_enabled = true
+rotation_smoothing_enabled = true

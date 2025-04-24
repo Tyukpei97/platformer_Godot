@@ -1,121 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1745420016
+::res://::1745492056
 icon.svg::CompressedTexture2D/CompressedTexture2D::2761279184649677513::1745415797::1745415838::1::::<><><>0<>0<>65f6cf5d5e506de3b937456d1480a212<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-character_body_2d.gd::GDScript::5863659009094638234::1745419954::0::1::::<>CharacterBody2D<><>0<>0<><>::
-::res://Loc_1/::1745415797
-::res://Loc_1/bg/::1745418157
-::res://Loc_1/bg/castle/::1745418012
-CastleTiles.png::CompressedTexture2D::1198636444308335379::1745417958::1745418012::1::::<><><>0<>0<>c8ca810c64c926bd00152229bda77d32<>res://.godot/imported/CastleTiles.png-557dda4b27181768e0aa6ee1a0a74a00.ctex::
-ExtraTiles1.png::CompressedTexture2D::4786055138060044202::1745417963::1745418012::1::::<><><>0<>0<>4c0445ce2e7d1c0d7a1db5fc1ea815dc<>res://.godot/imported/ExtraTiles1.png-05686f40ab165be3bd2e1d42f54e1114.ctex::
-InfernoTiles.png::CompressedTexture2D::3512468196119827755::1745417965::1745418012::1::::<><><>0<>0<>e2edc8647789823faabb416fa58a9be1<>res://.godot/imported/InfernoTiles.png-9533b0bfc213f522ecc94e410fc44550.ctex::
-SewerTiles.png::CompressedTexture2D::2738535949956131908::1745417966::1745418012::1::::<><><>0<>0<>8e9ab48b2f630482b1b7d71a7fd8a1f1<>res://.godot/imported/SewerTiles.png-5649a446273b68120705c189e2893968.ctex::
-::res://Loc_1/bg/castle/BG/::1745416150
-Castle -Background  Layer 2.png::CompressedTexture2D/CompressedTexture2D::5778206369192340381::1617292684::1745416108::1::::<><><>0<>0<>8d90dc2242de562c1a524f0484a84359<>res://.godot/imported/Castle -Background  Layer 2.png-56fe6a31e694a424bd2207f178c908a8.ctex::
-Castle -Background Layer 1.png::CompressedTexture2D/CompressedTexture2D::2201686582348881585::1617292684::1745416108::1::::<><><>0<>0<>ca2a05d14a517e7b9a4f384b431737c8<>res://.godot/imported/Castle -Background Layer 1.png-02f561c6ea884d93934f31ba55d626b6.ctex::
-Castle Background -Layer 3.png::CompressedTexture2D/CompressedTexture2D::4944260085139838596::1617292684::1745416108::1::::<><><>0<>0<>1059fce6cfc9a1fd77bd1cb9a5930a0d<>res://.godot/imported/Castle Background -Layer 3.png-ed6b1a0a56ab09d22e94c55deac6a184.ctex::
-::res://Loc_1/bg/castle/Props/::1745416150
-Castle Tileset_Collectable Object - Chest 01 Locked.png::CompressedTexture2D/CompressedTexture2D::537705303285308520::1617292770::1745416107::1::::<><><>0<>0<>c821fc00098c5b764ddf1d3f104962b0<>res://.godot/imported/Castle Tileset_Collectable Object - Chest 01 Locked.png-d8314f538bba6d9a5d86cd275f992d87.ctex::
-Castle Tileset_Collectable Object - Chest 01 Unlocked.png::CompressedTexture2D/CompressedTexture2D::4585485249021198000::1617292770::1745416107::1::::<><><>0<>0<>cad6dcca685e11de69c78ddaff2226a9<>res://.godot/imported/Castle Tileset_Collectable Object - Chest 01 Unlocked.png-10861bf3a34c605a443b3bc5a47ba32d.ctex::
-Castle Tileset_Collectable Object - Key 01.png::CompressedTexture2D/CompressedTexture2D::1799472243619199248::1617292770::1745416107::1::::<><><>0<>0<>6f3a1454d54c547b143c5a61b0c1bc90<>res://.godot/imported/Castle Tileset_Collectable Object - Key 01.png-d66b15efb6a0fe20bcba424d2e800b4c.ctex::
-Castle Tileset_Environment - Armor.png::CompressedTexture2D/CompressedTexture2D::7531942937559361367::1617292770::1745416107::1::::<><><>0<>0<>c786b2055fb52d131806eb842903cc06<>res://.godot/imported/Castle Tileset_Environment - Armor.png-d4162e5a719ef378df9722772805637e.ctex::
-Castle Tileset_Environment - Banner.png::CompressedTexture2D/CompressedTexture2D::6272449914290708825::1617292770::1745416107::1::::<><><>0<>0<>f5b807a61abab22a6f4ab7318c937af3<>res://.godot/imported/Castle Tileset_Environment - Banner.png-0e9d55e3f5d26e0fb4b603b4d9c8c17f.ctex::
-Castle Tileset_Environment - Bookcase.png::CompressedTexture2D/CompressedTexture2D::8600330347945288303::1617292770::1745416107::1::::<><><>0<>0<>d9797cccebb9028b445421d8e8ca375c<>res://.godot/imported/Castle Tileset_Environment - Bookcase.png-36cc86498d515c5ad6d8b35f83fd723d.ctex::
-Castle Tileset_Environment - Door 01.png::CompressedTexture2D/CompressedTexture2D::5528112107219702939::1617292770::1745416107::1::::<><><>0<>0<>a03a30d0fbe0bae93e8ca04606860265<>res://.godot/imported/Castle Tileset_Environment - Door 01.png-061e9439d458dfa3e253b8f7fa3d70b6.ctex::
-Castle Tileset_Environment - Door 02.png::CompressedTexture2D/CompressedTexture2D::5004351906573832208::1617292770::1745416107::1::::<><><>0<>0<>429dd67066aa84ed8a5ee518f82632d7<>res://.godot/imported/Castle Tileset_Environment - Door 02.png-b5c809b189f71eaf420dfac3d2be561a.ctex::
-Castle Tileset_Environment - Door 03.png::CompressedTexture2D/CompressedTexture2D::4382570936909209745::1617292770::1745416107::1::::<><><>0<>0<>ce995227952cb20b6757b9fe200223f5<>res://.godot/imported/Castle Tileset_Environment - Door 03.png-c020b90f391463183e140267e5974825.ctex::
-Castle Tileset_Environment - Portrait.png::CompressedTexture2D/CompressedTexture2D::7843170378741926150::1704989342::1745416107::1::::<><><>0<>0<>384d6217db7dc8ac284158c4c78bca59<>res://.godot/imported/Castle Tileset_Environment - Portrait.png-d127663969fdf6935ab5fc1174b3f44c.ctex::
-Castle Tileset_Environment - Rock 05.png::CompressedTexture2D/CompressedTexture2D::4350813427298018317::1617292770::1745416107::1::::<><><>0<>0<>7b4b50c6654682381e628760a1d8c51a<>res://.godot/imported/Castle Tileset_Environment - Rock 05.png-9453842e500b306787c3e50c9ae7000f.ctex::
-Castle Tileset_Environment - Rock 06.png::CompressedTexture2D/CompressedTexture2D::3133476402385586719::1617292770::1745416107::1::::<><><>0<>0<>fd011d339facfce6c6ee01b7d26a8ff0<>res://.godot/imported/Castle Tileset_Environment - Rock 06.png-48a236616173d82a37373349ad797909.ctex::
-Castle Tileset_Environment - Rock 07.png::CompressedTexture2D/CompressedTexture2D::2350081550475128831::1617292770::1745416107::1::::<><><>0<>0<>b3bc296e8b2e7aca26136624995ec0df<>res://.godot/imported/Castle Tileset_Environment - Rock 07.png-dda68eaa06362aec6509da046f6190d7.ctex::
-Castle Tileset_Environment - Rock 08.png::CompressedTexture2D/CompressedTexture2D::6674586134847845369::1617292770::1745416107::1::::<><><>0<>0<>ec2f4f494b1d85927b0148e675d44a87<>res://.godot/imported/Castle Tileset_Environment - Rock 08.png-5bdcec8788b9e17488dd9e92fa25d043.ctex::
-Castle Tileset_Environment - Shield.png::CompressedTexture2D/CompressedTexture2D::9060249192656778691::1617292770::1745416107::1::::<><><>0<>0<>227ab867e1a98bb99dccee0aced83000<>res://.godot/imported/Castle Tileset_Environment - Shield.png-9bb7a4144bffb79f8c458155af6b76ba.ctex::
-Castle Tileset_Environment - Sign 01.png::CompressedTexture2D/CompressedTexture2D::70192375101892331::1617292770::1745416107::1::::<><><>0<>0<>825c23cadb54e19e367008a2bfbd8c98<>res://.godot/imported/Castle Tileset_Environment - Sign 01.png-a52404b014847ad6416b249f472efb11.ctex::
-Castle Tileset_Environment - Sign 02.png::CompressedTexture2D/CompressedTexture2D::969000035004888449::1617292770::1745416107::1::::<><><>0<>0<>5383201092583ed06d811dcfbbfd787c<>res://.godot/imported/Castle Tileset_Environment - Sign 02.png-4391e65f2d292b5d62dc850218a63d0b.ctex::
-Castle Tileset_Environment - Sign 03.png::CompressedTexture2D/CompressedTexture2D::599955972858873934::1617292770::1745416107::1::::<><><>0<>0<>cc6287e12c922c2188359665377fb112<>res://.godot/imported/Castle Tileset_Environment - Sign 03.png-5afbf8d66a0c7713f37461f8af08c538.ctex::
-Castle Tileset_Environment - Sign 04.png::CompressedTexture2D/CompressedTexture2D::7189548334802712983::1617292772::1745416107::1::::<><><>0<>0<>956f94d1ba5783e50e0dc534fb6200e3<>res://.godot/imported/Castle Tileset_Environment - Sign 04.png-e7f507450f38e113703f271811314868.ctex::
-Castle Tileset_Environment - Sign 05.png::CompressedTexture2D/CompressedTexture2D::1488682796573693832::1617292772::1745416107::1::::<><><>0<>0<>8a15f23f8003cf8e45b5d820551af06e<>res://.godot/imported/Castle Tileset_Environment - Sign 05.png-239ca2157a008c9cd4de1ee05d5fade2.ctex::
-Castle Tileset_Environment - Sign 06.png::CompressedTexture2D/CompressedTexture2D::8135190981097196016::1617292772::1745416107::1::::<><><>0<>0<>59676544cbfe366da2217d0e952b3b07<>res://.godot/imported/Castle Tileset_Environment - Sign 06.png-74b68dd51cc0b85ce374f3c5e4721a1d.ctex::
-Castle Tileset_Environment - Statue.png::CompressedTexture2D/CompressedTexture2D::5353890480953558620::1617292772::1745416107::1::::<><><>0<>0<>3f5c840ee88474454a898e7e42f6fc86<>res://.godot/imported/Castle Tileset_Environment - Statue.png-0a93c29f426fe737fec073a15006a4df.ctex::
-Castle Tileset_Environment-Decor Window.png::CompressedTexture2D/CompressedTexture2D::7907330465873182019::1617292772::1745416107::1::::<><><>0<>0<>81303a1e8dd9a6f683f8968ca0e41b08<>res://.godot/imported/Castle Tileset_Environment-Decor Window.png-029606156e3a8ab71c08f3b41a4cb668.ctex::
-Castle Tileset_Environment-Flame Glow.png::CompressedTexture2D/CompressedTexture2D::6879670802686488834::1617292772::1745416107::1::::<><><>0<>0<>2a2316a1c0fea1b83eac2a517e3438c2<>res://.godot/imported/Castle Tileset_Environment-Flame Glow.png-7f1dc8931be17e032b8edb04de6c12e1.ctex::
-Castle Tileset_Environment-Flame Holder 01.png::CompressedTexture2D/CompressedTexture2D::8969741558545396581::1617292772::1745416107::1::::<><><>0<>0<>2d5dcada3e2b6aedd257bbc0642e8d3e<>res://.godot/imported/Castle Tileset_Environment-Flame Holder 01.png-ea26644c4fc120b9d9f421c1dfd0b951.ctex::
-Castle Tileset_Environment-Flame Holder 02.png::CompressedTexture2D/CompressedTexture2D::3815692464107091573::1617292772::1745416107::1::::<><><>0<>0<>0b10ac0d05bfa64046d91aff1f2744e0<>res://.godot/imported/Castle Tileset_Environment-Flame Holder 02.png-57b9722d759563108a2bf3f8a98602da.ctex::
-Castle Tileset_Environment-Flame Holder 03.png::CompressedTexture2D/CompressedTexture2D::7171148018255881249::1617292772::1745416107::1::::<><><>0<>0<>d3db72a30a9612fd05cc22a7b06cc994<>res://.godot/imported/Castle Tileset_Environment-Flame Holder 03.png-bdb7e48c330d43afdbbda70303c7f023.ctex::
-Castle Tileset_Environment-Flame Holder 04.png::CompressedTexture2D/CompressedTexture2D::4304488387975142375::1617292772::1745416107::1::::<><><>0<>0<>56274ec3984ecfc38341218d6add1a56<>res://.godot/imported/Castle Tileset_Environment-Flame Holder 04.png-1b1b2bf7b726b0ad9791559b57784374.ctex::
-Castle Tileset_Environment-Flame Holder 05.png::CompressedTexture2D/CompressedTexture2D::8155056325037623706::1617292772::1745416107::1::::<><><>0<>0<>ce29c446a4ed07336d5f7be219ee465d<>res://.godot/imported/Castle Tileset_Environment-Flame Holder 05.png-17aaf190a46a186f108974245c20028c.ctex::
-Castle Tileset_Environment-Flame Holder 06.png::CompressedTexture2D/CompressedTexture2D::3864604549774091533::1617292772::1745416107::1::::<><><>0<>0<>1e11c5d2f402e6e1cdfc8510e131a83b<>res://.godot/imported/Castle Tileset_Environment-Flame Holder 06.png-7e7422d73c9ab4289ffc4b178681015e.ctex::
-Castle Tileset_Environment-Flame Holder 07.png::CompressedTexture2D/CompressedTexture2D::8123761642960893298::1617292772::1745416107::1::::<><><>0<>0<>e814fa004ccaf170bdd339455ebd0dba<>res://.godot/imported/Castle Tileset_Environment-Flame Holder 07.png-67844124b269aa27bd0c4aa3337cbfa1.ctex::
-Castle Tileset_Environment-Flame Holder 08.png::CompressedTexture2D/CompressedTexture2D::4811875065438400594::1617292772::1745416107::1::::<><><>0<>0<>00978613de84e51148d61fb5b06f29cb<>res://.godot/imported/Castle Tileset_Environment-Flame Holder 08.png-d071f28a4ae455cd9441707dfd4e79e4.ctex::
-Castle Tileset_Environment-Web.png::CompressedTexture2D/CompressedTexture2D::159314327609587341::1617292772::1745416107::1::::<><><>0<>0<>205e53f3cc53b86cda64a17e252f19ff<>res://.godot/imported/Castle Tileset_Environment-Web.png-ee4110885e46848bafb333a0345d70d4.ctex::
-Castle Tileset_Foldin Platform- 03.png::CompressedTexture2D/CompressedTexture2D::6529158288734706763::1617292772::1745416107::1::::<><><>0<>0<>84fa02d537fa74fcae476358c4b362fd<>res://.godot/imported/Castle Tileset_Foldin Platform- 03.png-6117253598529c168bb7632c3788f379.ctex::
-Castle Tileset_Folding Platform- 01.png::CompressedTexture2D/CompressedTexture2D::4729616720817985653::1617292772::1745416107::1::::<><><>0<>0<>575e56e11b9ee056b4e52ffbd81bae65<>res://.godot/imported/Castle Tileset_Folding Platform- 01.png-0b5553fa7dd7e8287044a5e62db60432.ctex::
-Castle Tileset_Folding Platform- 02.png::CompressedTexture2D/CompressedTexture2D::4518008545829150589::1617292772::1745416107::1::::<><><>0<>0<>3ae25a16e52e051fb082cf8ea8379cc0<>res://.godot/imported/Castle Tileset_Folding Platform- 02.png-7d708b19af9644858bf23bfb9825c229.ctex::
-Castle Tileset_Hazard- Saw Line.png::CompressedTexture2D/CompressedTexture2D::1564688624655660715::1617292772::1745416107::1::::<><><>0<>0<>80c1cc1308c1e43f4367fd2feca439b2<>res://.godot/imported/Castle Tileset_Hazard- Saw Line.png-372964eedede7cdbd935b3819b275dfd.ctex::
-Castle Tileset_Hazard-Saw.png::CompressedTexture2D/CompressedTexture2D::4707355511722141624::1617292772::1745416107::1::::<><><>0<>0<>7c9c961dd48053b3c6ee7ba9565d2602<>res://.godot/imported/Castle Tileset_Hazard-Saw.png-65990c83dbb7cc6d2f231ea92eadd1fb.ctex::
-Castle Tileset_Platformer - Ladder.png::CompressedTexture2D/CompressedTexture2D::556486486090035197::1617292774::1745416107::1::::<><><>0<>0<>2fe220a2bd84879e5306fe45b38d2549<>res://.godot/imported/Castle Tileset_Platformer - Ladder.png-60945e1515b611ba73041b95f75a7c57.ctex::
-Castle Tileset_Platformer - Wooden Barrel.png::CompressedTexture2D/CompressedTexture2D::5807314568150808944::1617292774::1745416107::1::::<><><>0<>0<>d7ff4105deb8191c92a9e59ad3a78ad7<>res://.godot/imported/Castle Tileset_Platformer - Wooden Barrel.png-af301803e8f0cb9edda3e1bc56817373.ctex::
-Castle Tileset_Potions-Agility-Energy.png::CompressedTexture2D/CompressedTexture2D::8222884815499439408::1617292774::1745416107::1::::<><><>0<>0<>9bbe30c9c17db76daf46eaca0269b423<>res://.godot/imported/Castle Tileset_Potions-Agility-Energy.png-36f305a038e8f7eae7cf6d38fddcfe14.ctex::
-Castle Tileset_Potions-HP.png::CompressedTexture2D/CompressedTexture2D::7174272891957094198::1617292774::1745416107::1::::<><><>0<>0<>56902dde894d8a24e1d04ab05f1f46ba<>res://.godot/imported/Castle Tileset_Potions-HP.png-d8e3caa4594ad6bdb7ac3f2f7393972f.ctex::
-Castle Tileset_Potions-MP.png::CompressedTexture2D/CompressedTexture2D::3332155625196457460::1617292774::1745416107::1::::<><><>0<>0<>9b2bc169cd2c810513550a667f680665<>res://.godot/imported/Castle Tileset_Potions-MP.png-8688031f4adbee74d7c23317d01abe44.ctex::
-Castle Tileset_Quest-Artifact.png::CompressedTexture2D/CompressedTexture2D::7969011798127090909::1617292774::1745416107::1::::<><><>0<>0<>68f5aaa0fa25d53c72995fc31db4dc58<>res://.godot/imported/Castle Tileset_Quest-Artifact.png-3da1c71416d0d0f755e1507cbb1274c9.ctex::
-Castle Tileset_Quest-Earings.png::CompressedTexture2D/CompressedTexture2D::3116202589648694524::1617292774::1745416107::1::::<><><>0<>0<>c15805c2a18bb9cd5f0456768f316135<>res://.godot/imported/Castle Tileset_Quest-Earings.png-c39db216c88a69f34b88f0b79efaee00.ctex::
-Castle Tileset_Quest-Rune Book.png::CompressedTexture2D/CompressedTexture2D::796156162338389878::1617292774::1745416107::1::::<><><>0<>0<>50e413270d42c81b6532de08b4c0b6a7<>res://.godot/imported/Castle Tileset_Quest-Rune Book.png-d4778e95fe78bac05bf5b4c8857fa71b.ctex::
-Castle Tileset_Quest-Rune.png::CompressedTexture2D/CompressedTexture2D::5742019588469176447::1617292774::1745416107::1::::<><><>0<>0<>242c9b7ad709a22648e20f640e594b88<>res://.godot/imported/Castle Tileset_Quest-Rune.png-aca7633f659d10aa7fece1777b864546.ctex::
-Castle Tileset_Trap - Spike.png::CompressedTexture2D/CompressedTexture2D::2336696480965941310::1617292774::1745416107::1::::<><><>0<>0<>0b34affd40f119b09824a4b3cb1c94f5<>res://.godot/imported/Castle Tileset_Trap - Spike.png-8cd21c052b3eea7e6c5c451b87c21399.ctex::
-Hazard-Revolving Spike Ball.png::CompressedTexture2D/CompressedTexture2D::7831227783111271050::1704989208::1745416107::1::::<><><>0<>0<>ee29b1cae8fa1bd45172a492500cfe52<>res://.godot/imported/Hazard-Revolving Spike Ball.png-790aab0128df5e79d2f394d6d1e2347b.ctex::
-::res://Loc_1/bg/castle/Tiles/::1745416150
-Castle Tileset_Platformer - Ground 01.png::CompressedTexture2D/CompressedTexture2D::4222637271412705890::1617292772::1745416107::1::::<><><>0<>0<>5f9219a6b57337f2e08a91b449de3181<>res://.godot/imported/Castle Tileset_Platformer - Ground 01.png-ef1704d13a5b6a0915c6e484df146e2a.ctex::
-Castle Tileset_Platformer - Ground 02.png::CompressedTexture2D/CompressedTexture2D::4831666973356732984::1617292772::1745416107::1::::<><><>0<>0<>d53f199ea01575b743325c2df0a54694<>res://.godot/imported/Castle Tileset_Platformer - Ground 02.png-0e31496006a2c0e19cf35fe0c03eb9d7.ctex::
-Castle Tileset_Platformer - Ground 03.png::CompressedTexture2D/CompressedTexture2D::123950676544068355::1617292772::1745416107::1::::<><><>0<>0<>0d81cef5fe38b45668a9b990ac4af23d<>res://.godot/imported/Castle Tileset_Platformer - Ground 03.png-14f4e31ccc8d819cdcd98eb833cd4233.ctex::
-Castle Tileset_Platformer - Ground 04.png::CompressedTexture2D/CompressedTexture2D::9029086739494354271::1617292772::1745416107::1::::<><><>0<>0<>e3a5ed3124aa5e3dd938d465c077e0e8<>res://.godot/imported/Castle Tileset_Platformer - Ground 04.png-211aa60940ab8b095c7008aca2621795.ctex::
-Castle Tileset_Platformer - Ground 05.png::CompressedTexture2D/CompressedTexture2D::7843428145281305445::1617292772::1745416107::1::::<><><>0<>0<>c3da352e9073328927c589f38a5f0860<>res://.godot/imported/Castle Tileset_Platformer - Ground 05.png-6c49dda2a0e8e12cc7f1f7cbe7456e3b.ctex::
-Castle Tileset_Platformer - Ground 06.png::CompressedTexture2D/CompressedTexture2D::7572782316005133988::1617292772::1745416107::1::::<><><>0<>0<>839e16161cb35232badc86582666a4b6<>res://.godot/imported/Castle Tileset_Platformer - Ground 06.png-08b6bdd95bf1149de7f0594374f563b3.ctex::
-Castle Tileset_Platformer - Ground 07.png::CompressedTexture2D/CompressedTexture2D::5740622063054214343::1617292772::1745416107::1::::<><><>0<>0<>bbbe0763c3e3b9902e110f46e55f9606<>res://.godot/imported/Castle Tileset_Platformer - Ground 07.png-1f6073a7d51087dc26fd2cfe1c85ac2b.ctex::
-Castle Tileset_Platformer - Ground 08.png::CompressedTexture2D/CompressedTexture2D::8081521244084028249::1617292772::1745416107::1::::<><><>0<>0<>01c33f51cbed1dacfb5b4ec7e33c3791<>res://.godot/imported/Castle Tileset_Platformer - Ground 08.png-f7307f867aafea68007d9dc24f40db5f.ctex::
-Castle Tileset_Platformer - Ground 09.png::CompressedTexture2D/CompressedTexture2D::7402866727909439493::1617292772::1745416107::1::::<><><>0<>0<>6a0ab204e38b42c3e19786c9ee6f9c41<>res://.godot/imported/Castle Tileset_Platformer - Ground 09.png-c0b5b326ff76b9fd8f549914dc0453df.ctex::
-Castle Tileset_Platformer - Ground 10.png::CompressedTexture2D/CompressedTexture2D::1038251404030987717::1617292772::1745416107::1::::<><><>0<>0<>11481aa9c1304ac5e4b00125303741c9<>res://.godot/imported/Castle Tileset_Platformer - Ground 10.png-dd8c1673c3257c9e17a1b72423d2180a.ctex::
-Castle Tileset_Platformer - Ground 11.png::CompressedTexture2D/CompressedTexture2D::7565479155211918859::1617292772::1745416107::1::::<><><>0<>0<>231f9d98f74461bc31ac765c2eaf1a90<>res://.godot/imported/Castle Tileset_Platformer - Ground 11.png-b52c80112138fca1055e66fc53933e7b.ctex::
-Castle Tileset_Platformer - Ground 12.png::CompressedTexture2D/CompressedTexture2D::2324899635076595506::1617292774::1745416107::1::::<><><>0<>0<>e2263f2ba45b5fac64648214c539eb19<>res://.godot/imported/Castle Tileset_Platformer - Ground 12.png-0ab606dabcf141ff69e3f635c66d8c75.ctex::
-Castle Tileset_Platformer - Ground 13.png::CompressedTexture2D/CompressedTexture2D::6168484145560017836::1617292774::1745416107::1::::<><><>0<>0<>70d207b942ae9b8615979d95e9821ed5<>res://.godot/imported/Castle Tileset_Platformer - Ground 13.png-a30b7f5fe7d93de3d6d7a4dde1f09038.ctex::
-::res://Loc_1/bg/castle/Tiles/location 2/::1745415797
-::res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/::1745415797
-::res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/background/::1745415797
-::res://Loc_1/bg/castle/Tiles/location 2/oak_woods_v1.0/decorations/::1745415797
-::res://Loc_1/bg/castle1/::1745418233
-CastleTiles.png::CompressedTexture2D::5868452364065144518::1745417958::1745418233::1::::<><><>0<>0<>ad587be91f34b14f130edb37c28fe3b8<>res://.godot/imported/CastleTiles.png-be5777f3cb26812a8fe451bf5bed0e51.ctex::
-ExtraTiles1.png::CompressedTexture2D::1118506610137839615::1745417963::1745418233::1::::<><><>0<>0<>e16ddd1465edd527ef11c44f46d02937<>res://.godot/imported/ExtraTiles1.png-898c1a29094f718bd0faa19359f9ff7d.ctex::
-InfernoTiles.png::CompressedTexture2D::1957503179520924570::1745417965::1745418233::1::::<><><>0<>0<>227b1840e47e8fe0589c78461ea41051<>res://.godot/imported/InfernoTiles.png-c721e8dcc142a398d0f1e4f575e829d7.ctex::
-SewerTiles.png::CompressedTexture2D::495389596106192076::1745417966::1745418233::1::::<><><>0<>0<>9904f2e4722c821b1c0b28f323e7b635<>res://.godot/imported/SewerTiles.png-8c9793d97d2dc07184bcc57c4b192ed9.ctex::
-::res://Loc_1/bg/location 2/::1745416150
-graveyard.png::CompressedTexture2D/CompressedTexture2D::3141334580640398240::1745148877::1745416107::1::::<><><>0<>0<>39a360ad3ec83cf3d648a814c55ddf22<>res://.godot/imported/graveyard.png-90b796ff188dee19f3d32b8fc1635982.ctex::
-::res://Loc_1/bg/location 2/oak_woods_v1.0/::1745416150
-oak_woods_tileset.png::CompressedTexture2D/CompressedTexture2D::5167857138871723142::1575139176::1745416107::1::::<><><>0<>0<>7b915f2c69fb195c70d91ffc3d8783fe<>res://.godot/imported/oak_woods_tileset.png-19b82cb01c9dccd10595539b3c0fefbf.ctex::
-readme.TXT::TextFile/TextFile::-1::1575148487::0::1::::<><><>0<>0<><>::
-::res://Loc_1/bg/location 2/oak_woods_v1.0/background/::1745416150
-background_layer_1.png::CompressedTexture2D/CompressedTexture2D::7291666661320481893::1575033762::1745416107::1::::<><><>0<>0<>33e3edda5056c8c6bce5dc973e3fb97d<>res://.godot/imported/background_layer_1.png-07d864af6c144737e310804b8198d5e7.ctex::
-background_layer_2.png::CompressedTexture2D/CompressedTexture2D::3716176085294064717::1575033805::1745416107::1::::<><><>0<>0<>688eab5b568bd3cd99668ca07c692a3a<>res://.godot/imported/background_layer_2.png-f7cf3c61193caa47d8c0046479e977ad.ctex::
-background_layer_3.png::CompressedTexture2D/CompressedTexture2D::5312736341425569854::1575033876::1745416107::1::::<><><>0<>0<>30f2061363ab3ea07b661f2427fa7b29<>res://.godot/imported/background_layer_3.png-2ddf48ff053bc75f6773dfa2b94a806e.ctex::
-::res://Loc_1/bg/location 2/oak_woods_v1.0/decorations/::1745416150
-fence_1.png::CompressedTexture2D/CompressedTexture2D::1832443202045618059::1575136232::1745416107::1::::<><><>0<>0<>89e5fd0efbe0311c3c236e564e13884f<>res://.godot/imported/fence_1.png-4a638c29fc64a6ef2d213f5b9fcaae46.ctex::
-fence_2.png::CompressedTexture2D/CompressedTexture2D::2016919256041656061::1575136253::1745416107::1::::<><><>0<>0<>e8d55a603ff23bd7d9e2a67245193233<>res://.godot/imported/fence_2.png-a6f8c6b822fde7a554113ae71959d17d.ctex::
-grass_1.png::CompressedTexture2D/CompressedTexture2D::3235020751917860773::1575131002::1745416107::1::::<><><>0<>0<>9f02677f918196fecab89918bb4a560c<>res://.godot/imported/grass_1.png-491d71a30b87c9254c8a655a88ca3621.ctex::
-grass_2.png::CompressedTexture2D/CompressedTexture2D::4955530832465844691::1575131020::1745416107::1::::<><><>0<>0<>53bbb0083fc3f00ce1cbbe8260f0e18a<>res://.godot/imported/grass_2.png-b3664a657303abdce11a2f2071f7f9e2.ctex::
-grass_3.png::CompressedTexture2D/CompressedTexture2D::2516849164325319177::1575131037::1745416107::1::::<><><>0<>0<>3eb2014ba1860b2bb53139c7cbcc07ad<>res://.godot/imported/grass_3.png-35a1fe162892c1f3226070f9c3778844.ctex::
-lamp.png::CompressedTexture2D/CompressedTexture2D::8066727463935188147::1575136858::1745416107::1::::<><><>0<>0<>c35a22d693981c58e2e9e7f58e2b2e0e<>res://.godot/imported/lamp.png-152e0ed104176cd2db6823589d5200fa.ctex::
-rock_1.png::CompressedTexture2D/CompressedTexture2D::5292757422134895134::1575131762::1745416107::1::::<><><>0<>0<>0de953c036e906387642eb9ae88e3701<>res://.godot/imported/rock_1.png-efc03688267106ad57c33175787408ed.ctex::
-rock_2.png::CompressedTexture2D/CompressedTexture2D::7947276190890898710::1575131747::1745416107::1::::<><><>0<>0<>260bbd7927e5e182ceb695ee87308c2d<>res://.godot/imported/rock_2.png-35f212aad6f495356640bebb0c4c2a1a.ctex::
-rock_3.png::CompressedTexture2D/CompressedTexture2D::5754496834940432461::1575132122::1745416107::1::::<><><>0<>0<>6ea0ea40a9bb4c18622f5a6a78ea6a45<>res://.godot/imported/rock_3.png-63634e5162c12ecdc9786645c4b690ca.ctex::
-shop.png::CompressedTexture2D/CompressedTexture2D::9198022289048053687::1575139418::1745416107::1::::<><><>0<>0<>9545df6d9504f3022e6b41b8a76552a0<>res://.godot/imported/shop.png-a0136dc6b5659632f692b3f901d14af1.ctex::
-shop_anim.png::CompressedTexture2D/CompressedTexture2D::2111215259389563808::1575139452::1745416107::1::::<><><>0<>0<>add492ac11d99896e6bad9164d71b56d<>res://.godot/imported/shop_anim.png-a2f65238949516bcbc1aee9562102eac.ctex::
-sign.png::CompressedTexture2D/CompressedTexture2D::6143312626923920325::1575137220::1745416107::1::::<><><>0<>0<>5a2c253eb66d34a41e6750fafe724666<>res://.godot/imported/sign.png-f1234092d9827ab4f6c2942eb3e40bb2.ctex::
-::res://Loc_1/bg/location 2-3/::1745416150
-Changelog.txt::TextFile/TextFile::-1::1683773200::0::1::::<><><>0<>0<><>::
-::res://Loc_1/bg/location 2-3/Texture/::1745416150
-TX Chest Animation.png::CompressedTexture2D/CompressedTexture2D::5328160728264648442::1633401423::1745416107::1::::<><><>0<>0<>ec47b0073c120160006c24458304c8e8<>res://.godot/imported/TX Chest Animation.png-231d0a2b321b0d60c0b3a57b3674d8fb.ctex::
-TX FX Flame.png::CompressedTexture2D/CompressedTexture2D::1124780778335850158::1657262288::1745416107::1::::<><><>0<>0<>706d57e4a03537a3a14d0b46b534a73e<>res://.godot/imported/TX FX Flame.png-2e95c98e2514fd24406df28e2a20f160.ctex::
-TX FX Torch Flame.png::CompressedTexture2D/CompressedTexture2D::7793514818462744909::1657090667::1745416107::1::::<><><>0<>0<>733f2cbd065087fa9b9cbd5dc608ebdf<>res://.godot/imported/TX FX Torch Flame.png-2ae2f9e2a7f2d55b89732f91dddb0ed3.ctex::
-TX Tileset Ground.png::CompressedTexture2D/CompressedTexture2D::7305295658224693502::1679813061::1745416107::1::::<><><>0<>0<>1753bdcee84a77b45f6b6b93f4f134a6<>res://.godot/imported/TX Tileset Ground.png-ec395e1cc7e6f4d6f3216d33a5630613.ctex::
-TX Village Props.png::CompressedTexture2D/CompressedTexture2D::3456825318331462442::1683010186::1745416108::1::::<><><>0<>0<>d54b1644a614c69a9e9001b7c3701384<>res://.godot/imported/TX Village Props.png-ba5642907f67c6274e99328bd62580d5.ctex::
+::res://Loc_1/::1745491473
 ::res://Loc_1/hero/::1745415797
 ::res://Loc_1/hero/character/::1745416150
 char_blue.png::CompressedTexture2D/CompressedTexture2D::4286076931253254662::1575137857::1745416107::1::::<><><>0<>0<>8880a9511781d5e1f2cbb0dc45f4cfe3<>res://.godot/imported/char_blue.png-bcb8187d5256677734c230b6edd63137.ctex::
@@ -124,9 +10,7 @@ Fullmain.png::CompressedTexture2D/CompressedTexture2D::2572716676896878029::1745
 main2.1.png::CompressedTexture2D/CompressedTexture2D::2974697709565874084::1745145399::1745416107::1::::<><><>0<>0<>3835658c0f3826accabf34b323ab9847<>res://.godot/imported/main2.1.png-d59640b71c4495e87bb3bffe49f83423.ctex::
 main.png::CompressedTexture2D/CompressedTexture2D::5889564954799462150::1745145401::1745416107::1::::<><><>0<>0<>41cb7270ff4eeb7f58b60f18f8f5fea8<>res://.godot/imported/main.png-8c5cc209e2b2e698904b6b60422b9f07.ctex::
 ::res://Loc_1/mobs/::1745415797
-::res://Loc_1/mobs/Bringer-Of-Death/::1745416150
-Contact.txt::TextFile/TextFile::-1::1601133101::0::1::::<><><>0<>0<><>::
-License.txt::TextFile/TextFile::-1::1601132957::0::1::::<><><>0<>0<><>::
+::res://Loc_1/mobs/Bringer-Of-Death/::1745491546
 ::res://Loc_1/mobs/Bringer-Of-Death/Individual Sprite/::1745415797
 ::res://Loc_1/mobs/Bringer-Of-Death/Individual Sprite/Attack/::1745416150
 Bringer-of-Death_Attack_1.png::CompressedTexture2D/CompressedTexture2D::564602367451228693::1617352734::1745416107::1::::<><><>0<>0<>7e3a819191cb130e0842964e2840a68d<>res://.godot/imported/Bringer-of-Death_Attack_1.png-408aa305d957642fcec5ae6d8ad5e014.ctex::
@@ -256,8 +140,7 @@ Bringer-of-Death_Walk_8.png::CompressedTexture2D/CompressedTexture2D::1210497040
 ::res://Loc_1/mobs/Bringer-Of-Death/SpriteSheet/::1745416150
 Bringer-of-Death-SpritSheet.png::CompressedTexture2D/CompressedTexture2D::5797452502800622332::1617352432::1745416107::1::::<><><>0<>0<>dd217b740ecef48f50130bea5a60082c<>res://.godot/imported/Bringer-of-Death-SpritSheet.png-6d550bb51d52a5314ed0b1c38a29c894.ctex::
 Bringer-of-Death-SpritSheet_no-Effect.png::CompressedTexture2D/CompressedTexture2D::6927445275110245473::1617352513::1745416107::1::::<><><>0<>0<>7ed3f28974800b5c446efa95cf3d8851<>res://.godot/imported/Bringer-of-Death-SpritSheet_no-Effect.png-e83a56bf92a25a2d878771601bd82ada.ctex::
-::res://Loc_1/mobs/Huntress/::1745416150
-License.txt::TextFile/TextFile::-1::1603469802::0::1::::<><><>0<>0<><>::
+::res://Loc_1/mobs/Huntress/::1745491559
 ::res://Loc_1/mobs/Huntress/Sprites/::1745416150
 Attack1.png::CompressedTexture2D/CompressedTexture2D::6862981020406642712::1603468558::1745416106::1::::<><><>0<>0<>266c9a1c17e1dfb7f9a02849a800a84c<>res://.godot/imported/Attack1.png-ac84b0d9768e84701ad8d6acfd1d643a.ctex::
 Attack2.png::CompressedTexture2D/CompressedTexture2D::1339131174633769683::1603468570::1745416106::1::::<><><>0<>0<>099003d3e232fb5de373911762b9f385<>res://.godot/imported/Attack2.png-83fd2ff1ea278c3a25cc7ca6e2efc266.ctex::
@@ -270,7 +153,7 @@ Run.png::CompressedTexture2D/CompressedTexture2D::4617620948052522833::160346851
 Spear move.png::CompressedTexture2D/CompressedTexture2D::4173826284580829053::1603468915::1745416107::1::::<><><>0<>0<>10b9f9f80ed7c88a3186f11a694d0da2<>res://.godot/imported/Spear move.png-36c7a2ee5e385d1911ac9197f65d14ad.ctex::
 Spear.png::CompressedTexture2D/CompressedTexture2D::337290323220176381::1603468900::1745416107::1::::<><><>0<>0<>87ac5b07fb4d1a00d35fd144b9c4af62<>res://.godot/imported/Spear.png-8d29d3fdac7f235c5264b6905efc7658.ctex::
 Take hit.png::CompressedTexture2D/CompressedTexture2D::8910891679466220075::1603468598::1745416107::1::::<><><>0<>0<>55fff6189e03523a66cb07013e6556b5<>res://.godot/imported/Take hit.png-222a54c8de9d1b26d81a0d9c5272d23b.ctex::
-::res://Loc_1/mobs/skeletonAsset/::1745416150
+::res://Loc_1/mobs/skeletonAsset/::1745491566
 skeletonAttack-Sheet146x64.png::CompressedTexture2D/CompressedTexture2D::365808064769082387::1718694340::1745416107::1::::<><><>0<>0<>4b313da8d5d9ea198b02913bd6ba1f6e<>res://.godot/imported/skeletonAttack-Sheet146x64.png-12bc941f1b8080540fa377af2e2b04b2.ctex::
 skeletonDie-Sheet32x32_head.png::CompressedTexture2D/CompressedTexture2D::2110234208446562782::1718695774::1745416107::1::::<><><>0<>0<>32202a34e067b2e34e34645a6670d8d0<>res://.godot/imported/skeletonDie-Sheet32x32_head.png-9706fe1532f0e4f32ea5d4cfd4464e4c.ctex::
 skeletonDie-Sheet79x64_body.png::CompressedTexture2D/CompressedTexture2D::4196545939659509708::1718695534::1745416107::1::::<><><>0<>0<>d8a174ea92b7aff990a2e5c3c41e6bf9<>res://.godot/imported/skeletonDie-Sheet79x64_body.png-314e564ca0bfaf48a7eaf7bc7218326f.ctex::
@@ -279,7 +162,6 @@ skeletonHurt-Sheet64x64.png::CompressedTexture2D/CompressedTexture2D::8877997644
 skeletonHurt-Sheet64x64_noRed.png::CompressedTexture2D/CompressedTexture2D::6322078908610833935::1718694778::1745416107::1::::<><><>0<>0<>aea56abd9b2f7d7a2967b1f92912c02c<>res://.godot/imported/skeletonHurt-Sheet64x64_noRed.png-eef9bfad8057250e7f23a4434f884a0b.ctex::
 skeletonIdle-Sheet64x64.png::CompressedTexture2D/CompressedTexture2D::3109710536417476077::1718693878::1745416107::1::::<><><>0<>0<>f8d27730a54b13ae8c74ec5978cb0523<>res://.godot/imported/skeletonIdle-Sheet64x64.png-688b9d80d7db1e14dd4af7c1f664996e.ctex::
 skeletonMove-Sheet64x64.png::CompressedTexture2D/CompressedTexture2D::3889694243312377012::1718693912::1745416107::1::::<><><>0<>0<>10ba0b9f27fbc69b6f3c494287d1f91d<>res://.godot/imported/skeletonMove-Sheet64x64.png-6664f0de53bceea3f9bb4c79aa7296e6.ctex::
-::res://Loc_1/mobs/skeletonAsset/Gifs/::1745416150
 ::res://Loc_1/mobs/Wizard Pack/::1745416150
 Attack1.png::CompressedTexture2D/CompressedTexture2D::6341077853343254763::1579482132::1745416107::1::::<><><>0<>0<>364ad8fb36b39a92d3a37e665f3da53e<>res://.godot/imported/Attack1.png-496c5d00adceb601256b1040d6485c47.ctex::
 Attack2.png::CompressedTexture2D/CompressedTexture2D::9197783638110245034::1579482145::1745416107::1::::<><><>0<>0<>3cf029d1b512cec08818c7378168bb0d<>res://.godot/imported/Attack2.png-a0a1cfbf6ce605d0f1ad05f6a6df3fb2.ctex::
@@ -289,6 +171,32 @@ Hit.png::CompressedTexture2D/CompressedTexture2D::4414665433507072575::157948215
 Idle.png::CompressedTexture2D/CompressedTexture2D::681931137000738964::1579482080::1745416107::1::::<><><>0<>0<>1d429cd55db77c55a269cd41b4c134df<>res://.godot/imported/Idle.png-b1f6fbd08768a26f2f6221d75ffaef14.ctex::
 Jump.png::CompressedTexture2D/CompressedTexture2D::1466342078755773161::1579482109::1745416107::1::::<><><>0<>0<>04fde3da27abefdfd727d9a0fbac796c<>res://.godot/imported/Jump.png-35bc0a6b811220f1c50e9642cc40b305.ctex::
 Run.png::CompressedTexture2D/CompressedTexture2D::5832467439293847319::1579482094::1745416107::1::::<><><>0<>0<>3faf51909d1b01027f44dbdfe8ecf57b<>res://.godot/imported/Run.png-d501d6f5c8dd7cb3c808bd5b9ebd280a.ctex::
+::res://Loc_1/Tiles/::1745491504
+CastleTiles.png::CompressedTexture2D/CompressedTexture2D::5868452364065144518::1745417958::1745491473::1::::<><><>0<>0<>35d786847de6c1020ec77a9226b109bb<>res://.godot/imported/CastleTiles.png-bf655995454508ab6fadc5e9973a6d73.ctex::
+graveyard.png::CompressedTexture2D/CompressedTexture2D::3141334580640398240::1745148877::1745491473::1::::<><><>0<>0<>6a3c382de55c21e779454d4c129f0a15<>res://.godot/imported/graveyard.png-48ec5d547cd32853ad8fa6685a16e6a4.ctex::
+oak_woods_tileset.png::CompressedTexture2D/CompressedTexture2D::5167857138871723142::1575139176::1745491473::1::::<><><>0<>0<>9da697db8a90660a47fceb3144c10926<>res://.godot/imported/oak_woods_tileset.png-0a98e7b24f1209da3995fc654bcd3ffe.ctex::
+SewerTiles.png::CompressedTexture2D/CompressedTexture2D::495389596106192076::1745417966::1745491473::1::::<><><>0<>0<>05003014abcf42604757817e519772de<>res://.godot/imported/SewerTiles.png-9d54c113b28fad6e568cfec8a822aafa.ctex::
+TX Tileset Ground.png::CompressedTexture2D/CompressedTexture2D::7305295658224693502::1679813061::1745491473::1::::<><><>0<>0<>0c262fe4793cd56f813da876b26b7f97<>res://.godot/imported/TX Tileset Ground.png-261c5e68c028342169fe93822ad4db74.ctex::
+TX Village Props.png::CompressedTexture2D/CompressedTexture2D::3456825318331462442::1683010186::1745491474::1::::<><><>0<>0<>ca28054251bd1bfd72b2c7def4870211<>res://.godot/imported/TX Village Props.png-31ca82573f2c543b1d4a98d47e9c1287.ctex::
+::res://Loc_1/Tiles/background/::1745491473
+background_layer_1.png::CompressedTexture2D/CompressedTexture2D::7291666661320481893::1575033762::1745491473::1::::<><><>0<>0<>dc1d7ac5293f5ff48942f4da73511f83<>res://.godot/imported/background_layer_1.png-f8ca2755dc9b0c15d8d4340641bdf7b0.ctex::
+background_layer_2.png::CompressedTexture2D/CompressedTexture2D::3716176085294064717::1575033805::1745491473::1::::<><><>0<>0<>43968da1d581eb85a541c220cc071d6f<>res://.godot/imported/background_layer_2.png-8bb5c0fb1bc5cc5b545cd83562335ded.ctex::
+background_layer_3.png::CompressedTexture2D/CompressedTexture2D::5312736341425569854::1575033876::1745491473::1::::<><><>0<>0<>b902a5f6650cd3b8b10512983e58bc0c<>res://.godot/imported/background_layer_3.png-3b97d1758156e84094372aa8d6923616.ctex::
+::res://Loc_1/Tiles/decorations/::1745491504
+fence_1.png::CompressedTexture2D/CompressedTexture2D::1832443202045618059::1575136232::1745491473::1::::<><><>0<>0<>9be900366ff1dc0de22ef47813b48788<>res://.godot/imported/fence_1.png-74a387e22f107d12e5054f4797a59151.ctex::
+fence_2.png::CompressedTexture2D/CompressedTexture2D::2016919256041656061::1575136253::1745491473::1::::<><><>0<>0<>148c46fbf13e7f696b5b2392bc13361f<>res://.godot/imported/fence_2.png-a1eeade6a6d35f0000e36709aa20b4c5.ctex::
+grass_1.png::CompressedTexture2D/CompressedTexture2D::3235020751917860773::1575131002::1745491473::1::::<><><>0<>0<>07f73bd3d234c5ee1fd0715a1971d989<>res://.godot/imported/grass_1.png-acd0bb646e24bf31f11c45c322cc3cf9.ctex::
+grass_2.png::CompressedTexture2D/CompressedTexture2D::4955530832465844691::1575131020::1745491473::1::::<><><>0<>0<>a4a6468f7cfe799ef174df3238a53bb2<>res://.godot/imported/grass_2.png-0eb70e075a3df9434798f4d638fc2a0f.ctex::
+grass_3.png::CompressedTexture2D/CompressedTexture2D::2516849164325319177::1575131037::1745491473::1::::<><><>0<>0<>0ca46f837d09a793cecd84561b97181c<>res://.godot/imported/grass_3.png-553c78f4195e04054f69f2b9cd30e99a.ctex::
+lamp.png::CompressedTexture2D/CompressedTexture2D::8066727463935188147::1575136858::1745491473::1::::<><><>0<>0<>405fd62f8dce450f496442efd24ad4bb<>res://.godot/imported/lamp.png-f93981025f04468148ae8da962c6fc7c.ctex::
+rock_1.png::CompressedTexture2D/CompressedTexture2D::5292757422134895134::1575131762::1745491473::1::::<><><>0<>0<>4c8dac96ded53403e19e3c53e29ee493<>res://.godot/imported/rock_1.png-511a6406c2c487fc08dc0216c8b7d93c.ctex::
+rock_2.png::CompressedTexture2D/CompressedTexture2D::7947276190890898710::1575131747::1745491473::1::::<><><>0<>0<>ecacc790308a512805e5554323d58cec<>res://.godot/imported/rock_2.png-7dcbe8e19fe8cc75cacc1a2736827301.ctex::
+rock_3.png::CompressedTexture2D/CompressedTexture2D::5754496834940432461::1575132122::1745491473::1::::<><><>0<>0<>51ee91f549059742bef48c967aae4a92<>res://.godot/imported/rock_3.png-0d0284a6673d931d629a109fc6320cba.ctex::
+shop.png::CompressedTexture2D/CompressedTexture2D::9198022289048053687::1575139418::1745491473::1::::<><><>0<>0<>76d102585043a15be537d7a721a180f5<>res://.godot/imported/shop.png-ceb3bdb62ab3fbb0e65d863f5f4adba4.ctex::
+shop_anim.png::CompressedTexture2D/CompressedTexture2D::2111215259389563808::1575139452::1745491473::1::::<><><>0<>0<>24036e526b29fd8bc1b42ab1f9a6caab<>res://.godot/imported/shop_anim.png-b38816dcf227b8c27a345c02610091f6.ctex::
+sign.png::CompressedTexture2D/CompressedTexture2D::6143312626923920325::1575137220::1745491473::1::::<><><>0<>0<>60626624b92e88b98d2bda7141317874<>res://.godot/imported/sign.png-f86d35bfd19afe6ebb4bc5286ec2a613.ctex::
+TX FX Flame.png::CompressedTexture2D/CompressedTexture2D::1124780778335850158::1657262288::1745491504::1::::<><><>0<>0<>d03f7055a6fdd822d3e14290b19a2e21<>res://.godot/imported/TX FX Flame.png-e997bc9894c9a7325ce380843c5408a1.ctex::
+TX FX Torch Flame.png::CompressedTexture2D/CompressedTexture2D::7793514818462744909::1657090667::1745491504::1::::<><><>0<>0<>d77cbde314d749f99007b7ad052acde7<>res://.godot/imported/TX FX Torch Flame.png-bca2c4fe220b8846fa651b24362a4606.ctex::
 ::res://Loc_1/VFX/::1745416150
 04.png::CompressedTexture2D/CompressedTexture2D::18910945625960721::1727274498::1745416107::1::::<><><>0<>0<>60ec70a5ca7953c6a06c2e3c927940e0<>res://.godot/imported/04.png-a88d17dd41283d6948bfd3650d41eed2.ctex::
 Smoke VFX3.png::CompressedTexture2D/CompressedTexture2D::8329033660410353605::1631567819::1745416107::1::::<><><>0<>0<>3f1b3911baa5ca0f25aa6462b05c726e<>res://.godot/imported/Smoke VFX3.png-d18415ad900058a34fb40087fec5c09c.ctex::
@@ -1595,8 +1503,9 @@ Spark1-Sheet.png::CompressedTexture2D/CompressedTexture2D::4017038013424318933::
 Sparks-Sheet.png::CompressedTexture2D/CompressedTexture2D::7617106446293886813::1692215184::1745416106::1::::<><><>0<>0<>817f5fcb24226053174a6d2a48b3b568<>res://.godot/imported/Sparks-Sheet.png-0ef66a764a61764913e536179d15ff49.ctex::
 Splatter-Sheet.png::CompressedTexture2D/CompressedTexture2D::115473055694555235::1715807162::1745416106::1::::<><><>0<>0<>ad18e0ba49930d1592d8733f7edbe1e3<>res://.godot/imported/Splatter-Sheet.png-e8457dc7a845a1e11e6420833fe43d77.ctex::
 Water Vortex Splash-Sheet.png::CompressedTexture2D/CompressedTexture2D::397940372508277202::1715808350::1745416106::1::::<><><>0<>0<>ef1010c43f69a2801f76e27ea92b2b2e<>res://.godot/imported/Water Vortex Splash-Sheet.png-ea7a3f40177c9b3302259b0aa5bbd17d.ctex::
-::res://Scenes/::1745423622
-char.tscn::PackedScene::-1::1745418232::0::1::::<><><>0<>0<><>::
-node_2d.tscn::PackedScene::8559938349170417161::1745423685::0::1::::<><><>0<>0<><>::uid://cpuys2k4k2ygc::::res://Loc_1/bg/castle1/CastleTiles.png<>uid://p62v1mmstr88::::res://Loc_1/bg/castle1/ExtraTiles1.png<>uid://bpirn4t32wyms::::res://Loc_1/bg/location 2-3/Texture/TX Village Props.png<>uid://25h153c1sls1::::res://Loc_1/bg/castle1/InfernoTiles.png<>uid://hb782m2rx23a::::res://Loc_1/bg/castle1/SewerTiles.png<>uid://6mrprsaybl5b::::res://Loc_1/bg/castle/BG/Castle -Background Layer 1.png<>uid://cojsidy7cda71::::res://Scenes/player.tscn
-player.tscn::PackedScene::5775171966428310674::1745423756::0::1::::<><><>0<>0<><>::uid://cpsnuv563kp4u::::res://character_body_2d.gd<>uid://cp57jleif2mug::::res://Loc_1/hero/Rogue Knight/main.png<>uid://bcwijdthi1w5j::::res://Loc_1/hero/Rogue Knight/Fullmain.png
-::res://Scripts/::1745416296
+::res://Scenes/::1745491473
+char.tscn::PackedScene/PackedScene::-1::1745418232::0::1::::<><><>0<>0<><>::
+node_2d.tscn::PackedScene::8559938349170417161::1745491473::0::1::::<><><>0<>0<><>::uid://cpuys2k4k2ygc::::res://Loc_1/Tiles/CastleTiles.png<>uid://hb782m2rx23a::::res://Loc_1/Tiles/SewerTiles.png<>uid://cojsidy7cda71::::res://Scenes/player.tscn
+player.tscn::PackedScene/PackedScene::5775171966428310674::1745424319::0::1::::<><><>0<>0<><>::uid://cpsnuv563kp4u::::res://Scripts/character_body_2d.gd<>uid://cp57jleif2mug::::res://Loc_1/hero/Rogue Knight/main.png<>uid://bcwijdthi1w5j::::res://Loc_1/hero/Rogue Knight/Fullmain.png
+::res://Scripts/::1745423756
+character_body_2d.gd::GDScript/GDScript::5863659009094638234::1745419954::0::1::::<>CharacterBody2D<><>0<>0<><>::
