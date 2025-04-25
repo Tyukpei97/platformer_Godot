@@ -8874,7 +8874,7 @@ sources/12 = SubResource("TileSetAtlasSource_ornx7")
 sources/13 = SubResource("TileSetAtlasSource_cnnru")
 
 [node name="Node2D" type="Node2D"]
-position = Vector2(26, 51)
+position = Vector2(27, 51)
 
 [node name="TileMapLayer" type="TileMapLayer" parent="."]
 light_mask = 2
