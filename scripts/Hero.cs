@@ -4,35 +4,49 @@ public partial class Hero : RigidBody2D
 {
     [Export] public float MoveSpeed = 200f;
     [Export] public float JumpSpeed = 200f;
-    [Export] public NodePath GroundShapePath;
-    [Export] public bool CanJump = false;
+    [Export] public ShapeCast2D ShapeCast;
 
-
-    private ShapeCast2D _groundShape;
     private bool _canJump = false;
-
-
-    public override void _Ready()
-    {
-        _groundShape = GetNode<ShapeCast2D>(GroundShapePath);
-    }
 
     public override void _PhysicsProcess(double delta)
     {
         Vector2 velocity = LinearVelocity;
 
-        float input = Input.GetActionRawStrength("ui_right") - Input.GetActionRawStrength("ui_left");
-        velocity.X = input * MoveSpeed;
-
-        _canJump = _groundShape.IsColliding();
-
-        if (_canJump && Input.IsActionJustPressed("ui_accept"))
+        float direction = 0f;
+        if (Input.IsActionPressed("ui_left"))
         {
-            velocity.Y = -JumpSpeed;
+            direction -= 1f;
+        }
+        if (Input.IsActionPressed("ui_right"))
+        {
+            direction += 1f;
         }
 
+        velocity.X = direction * MoveSpeed;
+        ShapeCast.ForceShapecastUpdate();
+        _canJump = ShapeCast.IsColliding();
+
+        if (Input.IsActionJustPressed("ui_accept") && _canJump)
+        {
+            for (int i = 0; i < ShapeCast.GetCollisionCount(); i++)
+            {
+                Node2D collider = (Node2D)ShapeCast.GetCollider(i);
+                velocity.Y = -JumpSpeed;
+            }
+            
+        }
+       
         LinearVelocity = velocity;
+
+        if (ShapeCast.IsColliding())
+            GD.Print("На земле");
+        else
+            GD.Print("В воздухе");
+
     }
 
-
 }
+
+
+
+
