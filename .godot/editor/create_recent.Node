@@ -1,4 +1,5 @@
 TileMapLayer
+GPUParticles2D
 TileMap
 Camera2D
 CollisionShape2D
