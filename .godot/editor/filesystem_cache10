@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1746074283
+::res://::1747412655
 icon.svg::CompressedTexture2D/CompressedTexture2D::2761279184649677513::1745415797::1745415838::1::::<><><>0<>0<>65f6cf5d5e506de3b937456d1480a212<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://Loc_1/::1745491473
 ::res://Loc_1/hero/::1745415797
@@ -1503,9 +1503,11 @@ Spark1-Sheet.png::CompressedTexture2D/CompressedTexture2D::4017038013424318933::
 Sparks-Sheet.png::CompressedTexture2D/CompressedTexture2D::7617106446293886813::1692215184::1745416106::1::::<><><>0<>0<>817f5fcb24226053174a6d2a48b3b568<>res://.godot/imported/Sparks-Sheet.png-0ef66a764a61764913e536179d15ff49.ctex::
 Splatter-Sheet.png::CompressedTexture2D/CompressedTexture2D::115473055694555235::1715807162::1745416106::1::::<><><>0<>0<>ad18e0ba49930d1592d8733f7edbe1e3<>res://.godot/imported/Splatter-Sheet.png-e8457dc7a845a1e11e6420833fe43d77.ctex::
 Water Vortex Splash-Sheet.png::CompressedTexture2D/CompressedTexture2D::397940372508277202::1715808350::1745416106::1::::<><><>0<>0<>ef1010c43f69a2801f76e27ea92b2b2e<>res://.godot/imported/Water Vortex Splash-Sheet.png-ea7a3f40177c9b3302259b0aa5bbd17d.ctex::
-::res://Scenes/::1746015858
+::res://Scenes/::1747412672
+2d_lights_and_shadows_neutral_point_light.webp::CompressedTexture2D::438524906110475453::1747412672::1747412672::1::::<><><>0<>0<>6c2d55ca671c41f3bf4e2a8ac63c2eee<>res://.godot/imported/2d_lights_and_shadows_neutral_point_light.webp-4457b9957c428b48b01d10af89a79ffc.ctex::
+Area2d.cs::CSharpScript::1618348037477964307::1747406095::0::1::::<>Area2D<><>0<>0<><>::
 char.tscn::PackedScene/PackedScene::-1::1745418232::0::1::::<><><>0<>0<><>::
-node_2d.tscn::PackedScene::8559938349170417161::1746015858::0::1::::<><><>0<>0<><>::uid://cpuys2k4k2ygc::::res://Loc_1/Tiles/CastleTiles.png<>uid://bpirn4t32wyms::::res://Loc_1/Tiles/TX Village Props.png<>uid://hb782m2rx23a::::res://Loc_1/Tiles/SewerTiles.png<>uid://cfvl377y4eyyg::::res://Loc_1/Tiles/oak_woods_tileset.png<>uid://cojsidy7cda71::::res://Scenes/player.tscn<>uid://dcc0ff6bqanoo::::res://Loc_1/Tiles/TX Tileset Ground.png<>uid://bk0xk60ygjmtc::::res://Loc_1/Tiles/graveyard.png<>uid://dm6t28ebw1qt4::::res://Loc_1/Tiles/decorations/lamp.png<>uid://cn8rys1s6pp4p::::res://Loc_1/Tiles/decorations/rock_3.png<>uid://ctr4pxnreax3r::::res://Loc_1/Tiles/decorations/sign.png
-player.tscn::PackedScene::5775171966428310674::1746010659::0::1::::<><><>0<>0<><>::uid://cpsnuv563kp4u::::res://Scripts/character_body_2d.gd<>uid://cp57jleif2mug::::res://Loc_1/hero/Rogue Knight/main.png<>uid://bcwijdthi1w5j::::res://Loc_1/hero/Rogue Knight/Fullmain.png
-::res://Scripts/::1745494911
-character_body_2d.gd::GDScript/GDScript::5863659009094638234::1745494911::0::1::::<>CharacterBody2D<><>0<>0<><>::
+CharacterBody2d.cs::CSharpScript::5077431162874713862::1747411904::0::1::::<>CharacterBody2D<><>0<>0<><>::
+node_2d.tscn::PackedScene::8559938349170417161::1747412367::0::1::::<><><>0<>0<><>::uid://cpuys2k4k2ygc::::res://Loc_1/Tiles/CastleTiles.png<>uid://bpirn4t32wyms::::res://Loc_1/Tiles/TX Village Props.png<>uid://hb782m2rx23a::::res://Loc_1/Tiles/SewerTiles.png<>uid://xb67q3fj3kn8::::res://Scenes/Area2d.cs<>uid://cfvl377y4eyyg::::res://Loc_1/Tiles/oak_woods_tileset.png<>uid://cojsidy7cda71::::res://Scenes/player.tscn<>uid://dcc0ff6bqanoo::::res://Loc_1/Tiles/TX Tileset Ground.png<>uid://bk0xk60ygjmtc::::res://Loc_1/Tiles/graveyard.png<>uid://dm6t28ebw1qt4::::res://Loc_1/Tiles/decorations/lamp.png<>uid://cn8rys1s6pp4p::::res://Loc_1/Tiles/decorations/rock_3.png<>uid://ctr4pxnreax3r::::res://Loc_1/Tiles/decorations/sign.png
+player.tscn::PackedScene::5775171966428310674::1747411966::0::1::::<><><>0<>0<><>::uid://celssxe235ob3::::res://Scenes/CharacterBody2d.cs<>uid://cp57jleif2mug::::res://Loc_1/hero/Rogue Knight/main.png<>uid://bcwijdthi1w5j::::res://Loc_1/hero/Rogue Knight/Fullmain.png
+::res://Scripts/::1747400870

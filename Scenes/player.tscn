@@ -1,8 +1,9 @@
-[gd_scene load_steps=16 format=3 uid="uid://cojsidy7cda71"]
+[gd_scene load_steps=17 format=3 uid="uid://cojsidy7cda71"]
 
-[ext_resource type="Script" uid="uid://cpsnuv563kp4u" path="res://Scripts/character_body_2d.gd" id="1_6t5aa"]
+[ext_resource type="Script" uid="uid://celssxe235ob3" path="res://Scenes/CharacterBody2d.cs" id="1_6t5aa"]
 [ext_resource type="Texture2D" uid="uid://cp57jleif2mug" path="res://Loc_1/hero/Rogue Knight/main.png" id="2_vgqql"]
 [ext_resource type="Texture2D" uid="uid://bcwijdthi1w5j" path="res://Loc_1/hero/Rogue Knight/Fullmain.png" id="3_fkybt"]
+[ext_resource type="Texture2D" uid="uid://gioo87lygi5r" path="res://Scenes/2d_lights_and_shadows_neutral_point_light.webp" id="4_vgqql"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_x3wgy"]
 atlas = ExtResource("2_vgqql")
@@ -107,7 +108,7 @@ z_index = 2
 texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_fd4e3")
 animation = &"idle"
-frame_progress = 0.745587
+frame_progress = 0.450342
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
 position = Vector2(0, 2)
@@ -115,6 +116,14 @@ shape = SubResource("CapsuleShape2D_qqcod")
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
 visibility_layer = 31
-zoom = Vector2(5.955, 5.955)
+zoom = Vector2(3.22, 3.22)
 position_smoothing_enabled = true
 rotation_smoothing_enabled = true
+
+[node name="PointLight2D" type="PointLight2D" parent="CharacterBody2D"]
+position = Vector2(-1, 7)
+color = Color(0.29944, 0.390763, 0.999991, 1)
+energy = 0.54
+shadow_enabled = true
+shadow_color = Color(0.0562916, 0.0562916, 0.0562916, 0)
+texture = ExtResource("4_vgqql")

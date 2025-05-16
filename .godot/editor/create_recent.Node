@@ -1,8 +1,13 @@
+Container
+DirectionalLight2D
+PointLight2D
+CanvasModulate
+TileMap
+CollisionShape2D
+Area2D
 TileMapLayer
 GPUParticles2D
-TileMap
 Camera2D
-CollisionShape2D
 AnimatedSprite2D
 CharacterBody2D
 Sprite2D
