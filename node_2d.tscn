@@ -1,10 +1,8 @@
-[gd_scene load_steps=5 format=4 uid="uid://dawcpeq242qjx"]
+[gd_scene load_steps=4 format=4 uid="uid://dawcpeq242qjx"]
 
 [ext_resource type="PackedScene" uid="uid://yydj82co5br3" path="res://character_body_2d.tscn" id="2_0e48y"]
-[ext_resource type="Texture2D" uid="uid://ca3q34uo0m8ae" path="res://Loc_1/bg/castle/Tiles/Castle Tileset_Platformer - Ground 02.png" id="2_ta5nu"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_0e48y"]
-texture = ExtResource("2_ta5nu")
 0:0/0 = 0
 0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 1:0/0 = 0
