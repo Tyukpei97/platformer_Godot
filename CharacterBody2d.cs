@@ -31,7 +31,7 @@ public partial class CharacterBody2d : CharacterBody2D
     {
         Vector2 velocity = Velocity;
 
-        float _currentSpeed = (_accelerationTime / _totalTime) * maxMoveSpeed;
+        //float _currentSpeed = (_accelerationTime / _totalTime) * maxMoveSpeed;
 
         if (!IsOnFloor())
         {
@@ -56,13 +56,13 @@ public partial class CharacterBody2d : CharacterBody2D
         {
             if (Input.IsKeyPressed(Key.A))
             {
-                _accelerationTime += (float)delta;
-                velocity.X = crouching ? -crouchMoveSpeed : -_currentSpeed;
+                //_accelerationTime += (float)delta;
+                velocity.X = crouching ? -crouchMoveSpeed : -maxMoveSpeed;
             }
             else if (Input.IsKeyPressed(Key.D))
             {
-                _accelerationTime += (float)delta;
-                velocity.X = crouching ? crouchMoveSpeed : _currentSpeed;
+                //_accelerationTime += (float)delta;
+                velocity.X = crouching ? crouchMoveSpeed : maxMoveSpeed;
             }
         }
 
