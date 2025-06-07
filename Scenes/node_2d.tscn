@@ -1,47 +1,28 @@
-[gd_scene load_steps=82 format=4 uid="uid://dt7q60xqbseij"]
+[gd_scene load_steps=80 format=4 uid="uid://dt7q60xqbseij"]
 
 [ext_resource type="PackedScene" uid="uid://340bdsv30uqa" path="res://Scenes/bg.tscn" id="1_p20hg"]
 [ext_resource type="Texture2D" uid="uid://cpuys2k4k2ygc" path="res://Loc_1/Tiles/CastleTiles.png" id="1_u7krg"]
 [ext_resource type="Texture2D" uid="uid://bpirn4t32wyms" path="res://Loc_1/Tiles/TX Village Props.png" id="4_6whob"]
 [ext_resource type="Texture2D" uid="uid://hb782m2rx23a" path="res://Loc_1/Tiles/SewerTiles.png" id="4_v7gqg"]
-[ext_resource type="Texture2D" uid="uid://bboembup46yqe" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Decor.png" id="6_2ooml"]
-[ext_resource type="PackedScene" uid="uid://cojsidy7cda71" path="res://Scenes/player.tscn" id="6_tx0tn"]
-[ext_resource type="Texture2D" uid="uid://bsr6mcshhlsg6" path="res://Loc_1/2 houses 1 skull/big house.png" id="7_ny2ev"]
-[ext_resource type="Texture2D" uid="uid://d4a4pwim7rf0x" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Floor Tiles1.png" id="7_p20hg"]
-[ext_resource type="Texture2D" uid="uid://bcjtppruup56i" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Floor Tiles2.png" id="8_he4j0"]
-[ext_resource type="Texture2D" uid="uid://1dj57cwxe2bg" path="res://Loc_1/2 houses 1 skull/small house.png" id="8_jiy1d"]
-[ext_resource type="Texture2D" uid="uid://dk0pjleg5fecg" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Other Tiles1.png" id="9_85gyg"]
-[ext_resource type="Texture2D" uid="uid://mksn1h4dcjg2" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Other Tiles2.png" id="10_c32x4"]
-[ext_resource type="Texture2D" uid="uid://d3r0d6qd6sf4r" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Tree2.png" id="12_el1jj"]
-[ext_resource type="Texture2D" uid="uid://gioo87lygi5r" path="res://Loc_1/2d_lights_and_shadows_neutral_point_light.webp" id="12_p20hg"]
-[ext_resource type="Texture2D" uid="uid://ctv7ibis6pwhf" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Tree1.png" id="13_03fgm"]
-[ext_resource type="Texture2D" uid="uid://d0nx3w4lmnaal" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Birch1.png" id="14_uu23e"]
-[ext_resource type="Texture2D" uid="uid://cfhvphjwv4jxv" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Birch2.png" id="15_ny2ev"]
-[ext_resource type="Texture2D" uid="uid://mkiu4xlk7ftg" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Large Tent.png" id="16_jiy1d"]
-[ext_resource type="Texture2D" uid="uid://c2ofeg156xeey" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Pine Trees.png" id="17_ud1os"]
-[ext_resource type="Texture2D" uid="uid://cs0goytc8gscr" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Pixel Art Wheat.png" id="18_fpmp2"]
-[ext_resource type="Texture2D" uid="uid://2ao6yrwlqqgm" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Weeping Willow1.png" id="19_xiv05"]
-[ext_resource type="Texture2D" uid="uid://bupxb7rvpa6et" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Weeping Willow2.png" id="20_uybdb"]
-[ext_resource type="Texture2D" uid="uid://c6kdy10pwyrad" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/Tree3.png" id="21_uh8xd"]
-[ext_resource type="Texture2D" uid="uid://bko733j316hwm" path="res://Loc_1/2 houses 1 skull/skull.png" id="24_ud1os"]
-
-[sub_resource type="CSharpScript" id="CSharpScript_chwn1"]
-script/source = "using Godot;
-using System;
-
-public partial class Player : Node2D
-{
-	// Called when the node enters the scene tree for the first time.
-	public override void _Ready()
-	{
-	}
-
-	// Called every frame. 'delta' is the elapsed time since the previous frame.
-	public override void _Process(double delta)
-	{
-	}
-}
-"
+[ext_resource type="Texture2D" uid="uid://bboembup46yqe" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Decor.png" id="6_2ooml"]
+[ext_resource type="Texture2D" uid="uid://bsr6mcshhlsg6" path="res://Loc_1/Tiles/2 houses 1 skull/big house.png" id="7_ny2ev"]
+[ext_resource type="Texture2D" uid="uid://d4a4pwim7rf0x" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Floor Tiles1.png" id="7_p20hg"]
+[ext_resource type="Texture2D" uid="uid://bcjtppruup56i" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Floor Tiles2.png" id="8_he4j0"]
+[ext_resource type="Texture2D" uid="uid://1dj57cwxe2bg" path="res://Loc_1/Tiles/2 houses 1 skull/small house.png" id="8_jiy1d"]
+[ext_resource type="Texture2D" uid="uid://dk0pjleg5fecg" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Other Tiles1.png" id="9_85gyg"]
+[ext_resource type="Texture2D" uid="uid://mksn1h4dcjg2" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Other Tiles2.png" id="10_c32x4"]
+[ext_resource type="Texture2D" uid="uid://d3r0d6qd6sf4r" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Tree2.png" id="12_el1jj"]
+[ext_resource type="Texture2D" uid="uid://gioo87lygi5r" path="res://Loc_1/VFX/2d_lights_and_shadows_neutral_point_light.webp" id="12_p20hg"]
+[ext_resource type="Texture2D" uid="uid://ctv7ibis6pwhf" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Tree1.png" id="13_03fgm"]
+[ext_resource type="Texture2D" uid="uid://d0nx3w4lmnaal" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Birch1.png" id="14_uu23e"]
+[ext_resource type="Texture2D" uid="uid://cfhvphjwv4jxv" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Birch2.png" id="15_ny2ev"]
+[ext_resource type="Texture2D" uid="uid://mkiu4xlk7ftg" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Large Tent.png" id="16_jiy1d"]
+[ext_resource type="Texture2D" uid="uid://c2ofeg156xeey" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Pine Trees.png" id="17_ud1os"]
+[ext_resource type="Texture2D" uid="uid://cs0goytc8gscr" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Pixel Art Wheat.png" id="18_fpmp2"]
+[ext_resource type="Texture2D" uid="uid://2ao6yrwlqqgm" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Weeping Willow1.png" id="19_xiv05"]
+[ext_resource type="Texture2D" uid="uid://bupxb7rvpa6et" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Weeping Willow2.png" id="20_uybdb"]
+[ext_resource type="Texture2D" uid="uid://c6kdy10pwyrad" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Tree3.png" id="21_uh8xd"]
+[ext_resource type="Texture2D" uid="uid://bko733j316hwm" path="res://Loc_1/Tiles/2 houses 1 skull/skull.png" id="24_ud1os"]
 
 [sub_resource type="TileSet" id="TileSet_fg7i4"]
 
@@ -34391,10 +34372,6 @@ sources/1 = SubResource("TileSetAtlasSource_uybdb")
 position = Vector2(57, -43)
 
 [node name="BG" parent="." instance=ExtResource("1_p20hg")]
-
-[node name="player" parent="." instance=ExtResource("6_tx0tn")]
-position = Vector2(4971, 1)
-script = SubResource("CSharpScript_chwn1")
 
 [node name="Map" type="TileMap" parent="."]
 position = Vector2(-359, -102)

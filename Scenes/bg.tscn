@@ -1,16 +1,17 @@
 [gd_scene load_steps=12 format=3 uid="uid://340bdsv30uqa"]
 
-[ext_resource type="Texture2D" uid="uid://cs7qn8sjkerty" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Normal BG/GandalfHardcore Background layers_layer 5.png" id="1_6j0i3"]
-[ext_resource type="Texture2D" uid="uid://dsrevutilafst" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 5.png" id="1_h0vxs"]
-[ext_resource type="Texture2D" uid="uid://doe251rf3i2m7" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/birds4.png" id="2_ijd1x"]
-[ext_resource type="Texture2D" uid="uid://c00gb8t6aubaw" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 4.png" id="2_wh7op"]
-[ext_resource type="Texture2D" uid="uid://b8r4mkvlmrahw" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 3.png" id="3_k2fby"]
-[ext_resource type="Texture2D" uid="uid://c8vvptw2edwex" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/cloud1.png" id="3_mgqyn"]
-[ext_resource type="Texture2D" uid="uid://oo3kae40lk3k" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 2.png" id="4_gtuxm"]
-[ext_resource type="Texture2D" uid="uid://ditunm2m8skeh" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/cloud3.png" id="4_hcysp"]
-[ext_resource type="Texture2D" uid="uid://bcy40skutwlua" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/cloud5.png" id="5_e0ca0"]
-[ext_resource type="Texture2D" uid="uid://c1h356c073kmu" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 1.png" id="5_hjmtd"]
-[ext_resource type="Texture2D" uid="uid://oibntuvjf8k5" path="res://Loc_1/GandalfHardcore FREE Platformer Assets/cloud6.png" id="6_ngop3"]
+[ext_resource type="Texture2D" uid="uid://cs7qn8sjkerty" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Normal BG/GandalfHardcore Background layers_layer 5.png" id="1_6j0i3"]
+[ext_resource type="Texture2D" uid="uid://dsrevutilafst" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 5.png" id="1_h0vxs"]
+[ext_resource type="Texture2D" uid="uid://doe251rf3i2m7" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/birds4.png" id="2_ijd1x"]
+[ext_resource type="Texture2D" uid="uid://c00gb8t6aubaw" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 4.png" id="2_wh7op"]
+[ext_resource type="Texture2D" uid="uid://b8r4mkvlmrahw" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 3.png" id="3_k2fby"]
+[ext_resource type="Texture2D" uid="uid://c8vvptw2edwex" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/cloud1.png" id="3_mgqyn"]
+[ext_resource type="Texture2D" uid="uid://oo3kae40lk3k" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 2.png" id="4_gtuxm"]
+[ext_resource type="Texture2D" uid="uid://ditunm2m8skeh" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/cloud3.png" id="4_hcysp"]
+[ext_resource type="Texture2D" uid="uid://bcy40skutwlua" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/cloud5.png" id="5_e0ca0"]
+[ext_resource type="Texture2D" uid="uid://c1h356c073kmu" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/GandalfHardcore Background layers/Autumn BG/GandalfHardcore Background layers_layer 1.png" id="5_hjmtd"]
+[ext_resource type="Texture2D" uid="uid://oibntuvjf8k5" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/cloud6.png" id="6_ngop3"]
+
 
 [node name="BG" type="ParallaxBackground"]
 
