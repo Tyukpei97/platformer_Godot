@@ -10,6 +10,7 @@ public partial class CharacterBody2d : CharacterBody2D
     [Export] private float groundedDelay;
     [Export] private float rollSpeedBoost;
     [Export] private float rollDuration;
+    [Export]private float _totalTime;
 
     private float gravity = ProjectSettings.GetSetting("physics/2d/default_gravity").AsSingle();
     private AnimatedSprite2D _animations;
@@ -17,10 +18,8 @@ public partial class CharacterBody2d : CharacterBody2D
     
     private float _rollTimer;
     private float _accelerationTime;
-    private float _totalTime;
     private bool _isRolling;
     private float _groundedTimer;
-
     public override void _Ready()
     {
         _animations = GetNode<AnimatedSprite2D>("animations");
@@ -31,7 +30,7 @@ public partial class CharacterBody2d : CharacterBody2D
     {
         Vector2 velocity = Velocity;
 
-        //float _currentSpeed = (_accelerationTime / _totalTime) * maxMoveSpeed;
+        float _currentSpeed = Mathf.Lerp(0, maxMoveSpeed, _accelerationTime / _totalTime);
 
         if (!IsOnFloor())
         {
@@ -56,13 +55,20 @@ public partial class CharacterBody2d : CharacterBody2D
         {
             if (Input.IsKeyPressed(Key.A))
             {
-                //_accelerationTime += (float)delta;
-                velocity.X = crouching ? -crouchMoveSpeed : -maxMoveSpeed;
+                _accelerationTime += (float)delta;
+                velocity.X = crouching ? -crouchMoveSpeed : -_currentSpeed;
+                _accelerationTime = Mathf.Clamp(_accelerationTime, 0, _totalTime);
             }
             else if (Input.IsKeyPressed(Key.D))
             {
-                //_accelerationTime += (float)delta;
-                velocity.X = crouching ? crouchMoveSpeed : maxMoveSpeed;
+                _accelerationTime += (float)delta;
+                velocity.X = crouching ? crouchMoveSpeed : _currentSpeed;
+                _accelerationTime = Mathf.Clamp(_accelerationTime, 0, _totalTime);
+            }
+            else
+            {
+                _accelerationTime = 0;
+                velocity.X = 0;
             }
         }
 
