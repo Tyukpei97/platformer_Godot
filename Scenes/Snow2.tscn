@@ -1,0 +1,27 @@
+[gd_scene load_steps=2 format=3 uid="uid://bslo1tktb16km"]
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_np4k2"]
+lifetime_randomness = 0.05
+particle_flag_disable_z = true
+emission_shape = 3
+emission_box_extents = Vector3(74.245, -93.215, 0)
+gravity = Vector3(-146.245, 195.8, 5.3)
+tangential_accel_min = 12.6
+tangential_accel_max = 12.6
+scale_min = 1.2
+scale_max = 1.6
+color = Color(0.533333, 0.533333, 0.533333, 0.54902)
+hue_variation_min = -2.23517e-08
+hue_variation_max = -2.23517e-08
+turbulence_enabled = true
+collision_mode = 1
+collision_friction = 0.06
+collision_bounce = 0.3
+
+[node name="GPUParticles2D" type="GPUParticles2D"]
+amount = 48
+lifetime = 1.65
+speed_scale = 0.1
+randomness = 0.11
+fixed_fps = 144
+process_material = SubResource("ParticleProcessMaterial_np4k2")

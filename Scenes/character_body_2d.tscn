@@ -1,6 +1,6 @@
 [gd_scene load_steps=102 format=3 uid="uid://yydj82co5br3"]
 
-[ext_resource type="Script" uid="uid://mhndvlhdor20" path="res://scripts/CharacterBody2d.cs" id="1_73nau"]
+[ext_resource type="Script" uid="uid://mhndvlhdor20" path="res://Scripts/CharacterBody2d.cs" id="1_73nau"]
 [ext_resource type="Texture2D" uid="uid://q3jjvbjh4g02" path="res://Loc_1/hero/120x80_PNGSheets/_Attack2.png" id="2_y1dt5"]
 [ext_resource type="Texture2D" uid="uid://b254ntdqpjbsn" path="res://Loc_1/hero/120x80_PNGSheets/_Attack.png" id="3_au0nh"]
 [ext_resource type="Texture2D" uid="uid://c0cvljgqt1aga" path="res://Loc_1/hero/120x80_PNGSheets/_CrouchWalk.png" id="8_jsgy1"]
@@ -13,7 +13,7 @@
 [ext_resource type="Texture2D" uid="uid://b88tmttvldkpk" path="res://Loc_1/hero/120x80_PNGSheets/_Hit.png" id="13_lmwkj"]
 [ext_resource type="Texture2D" uid="uid://b26gk2f2fewpd" path="res://Loc_1/hero/120x80_PNGSheets/_Jump.png" id="15_1rslu"]
 [ext_resource type="Texture2D" uid="uid://s4mx5ahu8ujv" path="res://Loc_1/hero/120x80_PNGSheets/_Roll.png" id="16_3uyxa"]
-[ext_resource type="Script" uid="uid://dcxwiulcmnksq" path="res://scripts/DamageHadler.cs" id="16_q07ms"]
+[ext_resource type="Script" uid="uid://dcxwiulcmnksq" path="res://Scripts/DamageHadler.cs" id="16_q07ms"]
 [ext_resource type="Texture2D" uid="uid://dlyi8k84dlmkc" path="res://Loc_1/hero/120x80_PNGSheets/_Run.png" id="17_61y8d"]
 [ext_resource type="Texture2D" uid="uid://dw2gdnwio4t1x" path="res://Loc_1/hero/120x80_PNGSheets/_TurnAround.png" id="18_8icv6"]
 
