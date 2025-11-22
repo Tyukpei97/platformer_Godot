@@ -1,19 +1,89 @@
 [gd_scene load_steps=46 format=4 uid="uid://dt7q60xqbseij"]
 
-[ext_resource type="Script" uid="uid://cj6y4fhufr1fs" path="res://AIEnemy.cs" id="1_85gyg"]
 [ext_resource type="PackedScene" uid="uid://yydj82co5br3" path="res://Scenes/character_body_2d.tscn" id="1_ny2ev"]
 [ext_resource type="Texture2D" uid="uid://cpuys2k4k2ygc" path="res://Loc_1/Tiles/CastleTiles.png" id="1_u7krg"]
 [ext_resource type="Texture2D" uid="uid://bpirn4t32wyms" path="res://Loc_1/Tiles/TX Village Props.png" id="4_6whob"]
-[ext_resource type="Texture2D" uid="uid://bkb3amlmmneiu" path="res://Phrase.png" id="4_p20hg"]
 [ext_resource type="Texture2D" uid="uid://hb782m2rx23a" path="res://Loc_1/Tiles/SewerTiles.png" id="4_v7gqg"]
 [ext_resource type="Texture2D" uid="uid://bboembup46yqe" path="res://Loc_1/Tiles/GandalfHardcore FREE Platformer Assets/Decor.png" id="5_chwn1"]
-[ext_resource type="Texture2D" uid="uid://byk5e3o1db2u8" path="res://Door-closed3.png" id="5_hvaui"]
 [ext_resource type="PackedScene" uid="uid://hxlhi6v6anbh" path="res://Scenes/Snow.tscn" id="6_tx0tn"]
-[ext_resource type="Texture2D" uid="uid://ckwkojmlf42c4" path="res://Opened-door.png" id="7_he4j0"]
 [ext_resource type="PackedScene" uid="uid://bslo1tktb16km" path="res://Scenes/Snow2.tscn" id="7_v7gqg"]
-[ext_resource type="Texture2D" uid="uid://c5dp508pwfsr8" path="res://17490415675998.jpg" id="7_wjtap"]
+[ext_resource type="Texture2D" uid="uid://c5dp508pwfsr8" path="res://Loc_1/17490415675998.jpg" id="7_wjtap"]
 [ext_resource type="Texture2D" uid="uid://bqwia8r7ylba3" path="res://Loc_1/Lever (1)/Lever-animation-spritesheet.png" id="10_c32x4"]
 [ext_resource type="Texture2D" uid="uid://gioo87lygi5r" path="res://Loc_1/VFX/2d_lights_and_shadows_neutral_point_light.webp" id="12_p20hg"]
+
+[sub_resource type="CSharpScript" id="CSharpScript_hvaui"]
+script/source = "using Godot;
+using System;
+
+public partial class AIEnemy : CharacterBody2D
+{
+	private AnimatedSprite2D sprite_mob;
+	private RayCast2D leftRay;
+	private RayCast2D rightRay;
+
+	private Vector2 velocity = new Vector2();
+	private float gravity = (float)ProjectSettings.GetSetting(\"physics/2d/default_gravity\");
+	private float speed = 100f;
+	private bool movingRight = true;
+
+	public override void _Ready()
+	{
+		sprite_mob = GetNode<AnimatedSprite2D>(\"animations_enemy\");
+		leftRay = GetNode<RayCast2D>(\"left\");
+		rightRay = GetNode<RayCast2D>(\"right\");
+
+		if (!leftRay.IsEnabled())
+			leftRay.Enabled = true;
+		if (!rightRay.IsEnabled())
+			rightRay.Enabled = true;
+
+		velocity.X = speed;
+	}
+
+	public override void _PhysicsProcess(double delta)
+	{
+		velocity.X = movingRight ? speed : -speed;
+
+		// Проверка столкновений лучами
+		if (movingRight && rightRay.IsColliding())
+		{
+			movingRight = false;
+			GD.Print(\"Столкновение справа, меняем направление на лево\");
+		}
+		else if (!movingRight && leftRay.IsColliding())
+		{
+			movingRight = true;
+			GD.Print(\"Столкновение слева, меняем направление на право\");
+		}
+
+		// Отладочный вывод
+		GD.Print($\"MovingRight: {movingRight}, Velocity.X: {velocity.X}\");
+
+		// Обновление анимации
+		UpdateSpriteRenderer(velocity.X, velocity.Y);
+
+		velocity.Y += gravity * (float)delta;
+		Velocity = velocity;
+		MoveAndSlide();
+	}
+
+	private void UpdateSpriteRenderer(float velX, float velY)
+	{
+		bool walking = Math.Abs(velX) > 0.1f;
+		string animation = walking ? \"move\" : \"idle\";
+
+		// Отладочный вывод
+		GD.Print($\"VelX: {velX}, Walking: {walking}, Анимация: {animation}\");
+
+		// Воспроизведение анимации
+		sprite_mob.Play(animation);
+
+		// Отражение по горизонтали
+		if (walking)
+			sprite_mob.FlipH = velX > 0;
+	}
+}
+"
 
 [sub_resource type="TileSet" id="TileSet_fg7i4"]
 
@@ -1869,8 +1939,10 @@ texture = ExtResource("4_6whob")
 56:61/0/texture_origin = Vector2i(0, -5)
 56:61/0/physics_layer_0/polygon_0/points = PackedVector2Array(6.44941, -3.31684, 1.90411, -2.9483, -2.64119, 4.5453, 2.1498, 6.87937)
 
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_2ooml"]
+
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_op2xg"]
-texture = ExtResource("4_p20hg")
+texture = SubResource("CompressedTexture2D_2ooml")
 12:0/0 = 0
 12:0/0/modulate = Color(0.597176, 0.597176, 0.597176, 1)
 13:0/0 = 0
@@ -2327,16 +2399,20 @@ texture = ExtResource("4_v7gqg")
 14:13/0 = 0
 15:13/0 = 0
 
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_p20hg"]
+
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_hpu6p"]
-texture = ExtResource("5_hvaui")
+texture = SubResource("CompressedTexture2D_p20hg")
 0:0/0 = 0
 1:0/0 = 0
 0:1/0 = 0
 1:1/0 = 0
 1:2/0 = 0
 
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_he4j0"]
+
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_1nvmp"]
-texture = ExtResource("7_he4j0")
+texture = SubResource("CompressedTexture2D_he4j0")
 1:0/0 = 0
 2:0/0 = 0
 1:1/0 = 0
@@ -16442,7 +16518,7 @@ size = Vector2(39, 31)
 
 [node name="Location 1" type="Node2D"]
 position = Vector2(57, -43)
-script = ExtResource("1_85gyg")
+script = SubResource("CSharpScript_hvaui")
 
 [node name="Hero_02" parent="." instance=ExtResource("1_ny2ev")]
 position = Vector2(316, -375)
