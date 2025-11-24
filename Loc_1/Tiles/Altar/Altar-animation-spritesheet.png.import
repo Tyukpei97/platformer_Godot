@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cgntl5ukqe0y2"
-path="res://.godot/imported/Door-closed3.png-91c664b84894a4e5aa8274d7a0c421bd.ctex"
+uid="uid://dr8ounw03iwk0"
+path="res://.godot/imported/Altar-animation-spritesheet.png-4040e5c3bb3650f1ab7400aa33c83f35.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Loc_1/Tiles/door/Door-closed3.png"
-dest_files=["res://.godot/imported/Door-closed3.png-91c664b84894a4e5aa8274d7a0c421bd.ctex"]
+source_file="res://Loc_1/Tiles/Altar/Altar-animation-spritesheet.png"
+dest_files=["res://.godot/imported/Altar-animation-spritesheet.png-4040e5c3bb3650f1ab7400aa33c83f35.ctex"]
 
 [params]
 

@@ -25,6 +25,7 @@ public partial class CharacterBody2d : CharacterBody2D
 	{
 		_animations = GetNode<AnimatedSprite2D>("animations");
 		_collisionShape = GetNode<CollisionShape2D>("CollisionShape2D");
+		AddToGroup("player");
 	}
 
 	public override void _PhysicsProcess(double delta)

@@ -1,5 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1763870871
+::res://::1763998843
+Door.cs::CSharpScript::580593973746629214::1763998478::0::1::::<><><>0<>0<><>::
 ::res://Loc_1/::1763868831
 17490415675998.jpg::CompressedTexture2D/CompressedTexture2D::6885665503271444819::1763740562::1763831177::1::::<><><>0<>0<>df9882c1efd102622bcfd627a119ca67<>res://.godot/imported/17490415675998.jpg-b8768907853ed7c224d4a6bbd39e2e9b.ctex::
 ::res://Loc_1/hero/::1749291116
@@ -196,20 +197,19 @@ Hit.png::CompressedTexture2D/CompressedTexture2D::4414665433507072575::157948215
 Idle.png::CompressedTexture2D/CompressedTexture2D::681931137000738964::1579482080::1745416107::1::::<><><>0<>0<>1d429cd55db77c55a269cd41b4c134df<>res://.godot/imported/Idle.png-b1f6fbd08768a26f2f6221d75ffaef14.ctex::
 Jump.png::CompressedTexture2D/CompressedTexture2D::1466342078755773161::1579482109::1745416107::1::::<><><>0<>0<>04fde3da27abefdfd727d9a0fbac796c<>res://.godot/imported/Jump.png-35bc0a6b811220f1c50e9642cc40b305.ctex::
 Run.png::CompressedTexture2D/CompressedTexture2D::5832467439293847319::1579482094::1745416107::1::::<><><>0<>0<>3faf51909d1b01027f44dbdfe8ecf57b<>res://.godot/imported/Run.png-d501d6f5c8dd7cb3c808bd5b9ebd280a.ctex::
-::res://Loc_1/Tiles/::1763868831
+::res://Loc_1/Tiles/::1763886422
 CastleTiles.png::CompressedTexture2D/CompressedTexture2D::5868452364065144518::1745417958::1749290524::1::::<><><>0<>0<>35d786847de6c1020ec77a9226b109bb<>res://.godot/imported/CastleTiles.png-bf655995454508ab6fadc5e9973a6d73.ctex::
 TX Village Props.png::CompressedTexture2D/CompressedTexture2D::3456825318331462442::1683010186::1749290524::1::::<><><>0<>0<>ca28054251bd1bfd72b2c7def4870211<>res://.godot/imported/TX Village Props.png-31ca82573f2c543b1d4a98d47e9c1287.ctex::
-::res://Loc_1/Tiles/Altar/::1763868826
+::res://Loc_1/Tiles/Altar/::1763872575
+Altar-animation-spritesheet.png::CompressedTexture2D/CompressedTexture2D::8421483330549546981::1763872552::1763872575::1::::<><><>0<>0<>28f2ae7b8064192ba76003a7bd1fea24<>res://.godot/imported/Altar-animation-spritesheet.png-4040e5c3bb3650f1ab7400aa33c83f35.ctex::
 altar-awake-frame1.png::CompressedTexture2D/CompressedTexture2D::2103499311473739112::1763824342::1763868826::1::::<><><>0<>0<>3dfe7309cd3404d3a1405ea706d98a29<>res://.godot/imported/altar-awake-frame1.png-d23a1f05773ad140da62d3411c4f4e4d.ctex::
 altar-awake-frame2.png::CompressedTexture2D/CompressedTexture2D::6760750781233617065::1763824357::1763868826::1::::<><><>0<>0<>965fd6b66e42aea6798707b68af51a50<>res://.godot/imported/altar-awake-frame2.png-94a9c2ff7514baab96b4732d8a91007a.ctex::
 altar-awake-frame3.png::CompressedTexture2D/CompressedTexture2D::6982415057722376706::1763824379::1763868826::1::::<><><>0<>0<>5dd86cb70ddcef0e2464a56e55654b12<>res://.godot/imported/altar-awake-frame3.png-2b83f9559aba1714dabd3f28fcdbedff.ctex::
 altar-awake-frame4.png::CompressedTexture2D/CompressedTexture2D::4240296812347002622::1763824400::1763868826::1::::<><><>0<>0<>876a698b9dc7a38a8fa88081a10cbd0d<>res://.godot/imported/altar-awake-frame4.png-fd657b0aa1155943eb7c0fbad5c09e87.ctex::
 altar-awake-frame-final.png::CompressedTexture2D/CompressedTexture2D::944096452876030330::1763824414::1763868826::1::::<><><>0<>0<>4eb942617e31bb57c27097701c43e69d<>res://.godot/imported/altar-awake-frame-final.png-5a84a655ab127ec39ec9a6f98f7a80fd.ctex::
 altar-sleep.png::CompressedTexture2D/CompressedTexture2D::6526749226557532898::1763824429::1763868826::1::::<><><>0<>0<>acadcf158b5159928e0de75f8afae1b3<>res://.godot/imported/altar-sleep.png-18ffdf4e1602d188587d2f9199c7101a.ctex::
-Lever-animation-spritesheet.png::CompressedTexture2D/CompressedTexture2D::5016590031986279528::1763824751::1763868826::1::::<><><>0<>0<>d98a82557d01d2d253f4f87d5c427bec<>res://.godot/imported/Lever-animation-spritesheet.png-6903a5d7efcc9bb6a75e755ad7711e66.ctex::
-::res://Loc_1/Tiles/door/::1763868826
-Door-closed3.png::CompressedTexture2D/CompressedTexture2D::5221986213685205391::1763814804::1763868826::1::::<><><>0<>0<>fea3bfbc78a39e71debd7de5b5ae186a<>res://.godot/imported/Door-closed3.png-91c664b84894a4e5aa8274d7a0c421bd.ctex::
-Opened-door.png::CompressedTexture2D/CompressedTexture2D::4341601648516291725::1763817849::1763868826::1::::<><><>0<>0<>bfdc1eb7f36685f12fc4d7d1aad0567e<>res://.godot/imported/Opened-door.png-6a30f2ecfec9e4df997f20daf555ed65.ctex::
+::res://Loc_1/Tiles/door/::1763992864
+Door.png::CompressedTexture2D/CompressedTexture2D::2819178736627075681::1763891273::1763992754::1::::<><><>0<>0<>a3010a2f29d7d6411eb0ee641555e608<>res://.godot/imported/Door.png-36ce81981a29e7d7ec25bee898947b08.ctex::
 ::res://Loc_1/Tiles/Lever/::1763868826
 Lever (1).png::CompressedTexture2D/CompressedTexture2D::920257284645108626::1763824101::1763868826::1::::<><><>0<>0<>53281e79102ddfb06828a06a4cd8b465<>res://.godot/imported/Lever (1).png-b21169eb41144a20ad73db61a0447efd.ctex::
 Lever (2).png::CompressedTexture2D/CompressedTexture2D::8072432500591520684::1763823774::1763868826::1::::<><><>0<>0<>482c50fafcdabf838801318cd17a38f7<>res://.godot/imported/Lever (2).png-82e312f3f64938b56734f8b5c612badf.ctex::
@@ -1526,11 +1526,13 @@ Spark1-Sheet.png::CompressedTexture2D/CompressedTexture2D::4017038013424318933::
 Sparks-Sheet.png::CompressedTexture2D/CompressedTexture2D::7617106446293886813::1692215184::1745416106::1::::<><><>0<>0<>817f5fcb24226053174a6d2a48b3b568<>res://.godot/imported/Sparks-Sheet.png-0ef66a764a61764913e536179d15ff49.ctex::
 Splatter-Sheet.png::CompressedTexture2D/CompressedTexture2D::115473055694555235::1715807162::1745416106::1::::<><><>0<>0<>ad18e0ba49930d1592d8733f7edbe1e3<>res://.godot/imported/Splatter-Sheet.png-e8457dc7a845a1e11e6420833fe43d77.ctex::
 Water Vortex Splash-Sheet.png::CompressedTexture2D/CompressedTexture2D::397940372508277202::1715808350::1745416106::1::::<><><>0<>0<>ef1010c43f69a2801f76e27ea92b2b2e<>res://.godot/imported/Water Vortex Splash-Sheet.png-ea7a3f40177c9b3302259b0aa5bbd17d.ctex::
-::res://Scenes/::1763870849
-character_body_2d.tscn::PackedScene::1734277311624689714::1763831234::0::1::::<><><>0<>0<><>::uid://mhndvlhdor20::::res://Scripts/CharacterBody2d.cs<>uid://q3jjvbjh4g02::::res://Loc_1/hero/120x80_PNGSheets/_Attack2.png<>uid://b254ntdqpjbsn::::res://Loc_1/hero/120x80_PNGSheets/_Attack.png<>uid://c0cvljgqt1aga::::res://Loc_1/hero/120x80_PNGSheets/_CrouchWalk.png<>uid://una0yf23br0o::::res://Loc_1/hero/120x80_PNGSheets/_Crouch.png<>uid://cma3g7djudn0::::res://Loc_1/hero/120x80_PNGSheets/_Dash.png<>uid://bd87aspiphyis::::res://Loc_1/hero/120x80_PNGSheets/_Idle.png<>uid://b32866b03s0v0::::res://Loc_1/hero/120x80_PNGSheets/_Death.png<>uid://1pdxjbguo31b::::res://Loc_1/hero/120x80_PNGSheets/_DeathNoMovement.png<>uid://dt7hemwbxvxwt::::res://Loc_1/hero/120x80_PNGSheets/_Fall.png<>uid://b88tmttvldkpk::::res://Loc_1/hero/120x80_PNGSheets/_Hit.png<>uid://b26gk2f2fewpd::::res://Loc_1/hero/120x80_PNGSheets/_Jump.png<>uid://s4mx5ahu8ujv::::res://Loc_1/hero/120x80_PNGSheets/_Roll.png<>uid://dcxwiulcmnksq::::res://Scripts/DamageHadler.cs<>uid://dlyi8k84dlmkc::::res://Loc_1/hero/120x80_PNGSheets/_Run.png<>uid://dw2gdnwio4t1x::::res://Loc_1/hero/120x80_PNGSheets/_TurnAround.png
-Room.tscn::PackedScene::8559938349170417161::1763870710::0::1::::<><><>0<>0<><>::uid://cpuys2k4k2ygc::::res://Loc_1/Tiles/CastleTiles.png<>uid://bpirn4t32wyms::::res://Loc_1/Tiles/TX Village Props.png<>uid://bqwia8r7ylba3::::res://Loc_1/Tiles/Lever/Lever-animation-spritesheet.png<>uid://gioo87lygi5r::::res://Loc_1/VFX/2d_lights_and_shadows_neutral_point_light.webp<>uid://hxlhi6v6anbh::::res://Scenes/Snow.tscn<>uid://bslo1tktb16km::::res://Scenes/Snow2.tscn<>uid://c5dp508pwfsr8::::res://Loc_1/17490415675998.jpg
-Snow2.tscn::PackedScene::3673425507269963676::1763870161::0::1::::<><><>0<>0<><>::
-Snow.tscn::PackedScene::539483450358690349::1763870161::0::1::::<><><>0<>0<><>::
-::res://Scripts/::1763870837
-CharacterBody2d.cs::CSharpScript::857512566528315187::1763831234::0::1::::<>CharacterBody2D<><>0<>0<><>::
-DamageHadler.cs::CSharpScript::7348471554458125636::1763831234::0::1::::<>Node2D<><>0<>0<><>::
+::res://Scenes/::1763998843
+character_body_2d.tscn::PackedScene/PackedScene::1734277311624689714::1763998821::0::1::::<><><>0<>0<><>::uid://mhndvlhdor20::::res://Scripts/CharacterBody2d.cs<>uid://q3jjvbjh4g02::::res://Loc_1/hero/120x80_PNGSheets/_Attack2.png<>uid://b254ntdqpjbsn::::res://Loc_1/hero/120x80_PNGSheets/_Attack.png<>uid://c0cvljgqt1aga::::res://Loc_1/hero/120x80_PNGSheets/_CrouchWalk.png<>uid://una0yf23br0o::::res://Loc_1/hero/120x80_PNGSheets/_Crouch.png<>uid://cma3g7djudn0::::res://Loc_1/hero/120x80_PNGSheets/_Dash.png<>uid://bd87aspiphyis::::res://Loc_1/hero/120x80_PNGSheets/_Idle.png<>uid://b32866b03s0v0::::res://Loc_1/hero/120x80_PNGSheets/_Death.png<>uid://1pdxjbguo31b::::res://Loc_1/hero/120x80_PNGSheets/_DeathNoMovement.png<>uid://dt7hemwbxvxwt::::res://Loc_1/hero/120x80_PNGSheets/_Fall.png<>uid://b88tmttvldkpk::::res://Loc_1/hero/120x80_PNGSheets/_Hit.png<>uid://b26gk2f2fewpd::::res://Loc_1/hero/120x80_PNGSheets/_Jump.png<>uid://s4mx5ahu8ujv::::res://Loc_1/hero/120x80_PNGSheets/_Roll.png<>uid://dcxwiulcmnksq::::res://Scripts/DamageHadler.cs<>uid://dlyi8k84dlmkc::::res://Loc_1/hero/120x80_PNGSheets/_Run.png<>uid://dw2gdnwio4t1x::::res://Loc_1/hero/120x80_PNGSheets/_TurnAround.png
+door.tscn::PackedScene::1890612224815499158::1763998844::0::1::::<><><>0<>0<><>::uid://ijikenrt0p3s::::res://Door.cs<>uid://bgfvpx7yne706::::res://Loc_1/Tiles/door/Door.png<>uid://2irjcjb08nb6::::res://Scripts/Interactable.cs
+Room.tscn::PackedScene/PackedScene::8559938349170417161::1763998821::0::1::::<><><>0<>0<><>::uid://yydj82co5br3::::res://Scenes/character_body_2d.tscn<>uid://cpuys2k4k2ygc::::res://Loc_1/Tiles/CastleTiles.png<>uid://bpirn4t32wyms::::res://Loc_1/Tiles/TX Village Props.png<>uid://bqwia8r7ylba3::::res://Loc_1/Tiles/Lever/Lever-animation-spritesheet.png<>uid://dts46vqbbjupk::::res://Loc_1/Tiles/phrase/Phrase.png<>uid://gioo87lygi5r::::res://Loc_1/VFX/2d_lights_and_shadows_neutral_point_light.webp<>uid://dr8ounw03iwk0::::res://Loc_1/Tiles/Altar/Altar-animation-spritesheet.png<>uid://hxlhi6v6anbh::::res://Scenes/Snow.tscn<>uid://bslo1tktb16km::::res://Scenes/Snow2.tscn<>uid://c5dp508pwfsr8::::res://Loc_1/17490415675998.jpg
+Snow2.tscn::PackedScene/PackedScene::3673425507269963676::1763870161::0::1::::<><><>0<>0<><>::
+Snow.tscn::PackedScene/PackedScene::539483450358690349::1763870161::0::1::::<><><>0<>0<><>::
+::res://Scripts/::1763998843
+CharacterBody2d.cs::CSharpScript/CSharpScript::857512566528315187::1763998231::0::1::::<><><>0<>0<><>::
+DamageHadler.cs::CSharpScript/CSharpScript::7348471554458125636::1763831234::0::1::::<><><>0<>0<><>::
+Interactable.cs::CSharpScript::1912662180311622509::1763997798::0::1::::<><><>0<>0<><>::

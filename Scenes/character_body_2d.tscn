@@ -704,7 +704,7 @@ platform_wall_layers = 1
 script = ExtResource("1_73nau")
 maxMoveSpeed = 150.0
 crouchMoveSpeed = 75.0
-jumpSpeed = 400.0
+jumpSpeed = 264.0
 groundedDelay = 0.1
 rollSpeedBoost = 300.0
 rollDuration = 0.8
@@ -726,6 +726,8 @@ shape = SubResource("CapsuleShape2D_mbxdm")
 [node name="Camera2D" type="Camera2D" parent="."]
 position = Vector2(0, -89.63)
 zoom = Vector2(3, 3)
+position_smoothing_enabled = true
+position_smoothing_speed = 4.5
 
 [node name="Node2D" type="Node2D" parent="."]
 script = ExtResource("16_q07ms")
