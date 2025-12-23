@@ -80,3 +80,7 @@ interact={
 [layer_names]
 
 2d_physics/layer_1="character_body_2d"
+
+[rendering]
+
+rendering_device/fallback_to_vulkan=false
